@@ -43,6 +43,12 @@ Yet the contrasts are just as striking.  Where the Yayoi built villages of modes
 The Kofun period offers a riveting chapter in Japan’s long saga.  Its grand tombs and enigmatic haniwa captivate archaeologists and tourists alike.  Its technological advances in ceramics and metallurgy influenced centuries of art.  Its political innovations laid the foundation for the imperial state, while its religious practices gave shape to Shinto.  By tying the period back to the Yayoi, we recognise that history is less a series of discrete boxes and more a continuum of cultural evolution.
 Standing atop a keyhole mound, one might imagine the bustling scenes below: potters spinning Sue ware on newly imported wheels, clay sculptors molding haniwa guardians, farmers flooding paddies with water from complex canals, and clan leaders plotting alliances over sake.  The Kofun period was a time of monumental ambition and grassroots innovation—a combination that would propel Japan toward the Asuka era and the formal dawn of its recorded history.  As we continue our blog series, keep your eyes on the horizon; those tombs hide not only ancient rulers but also the seeds of empires yet to come.
 
+[Prev - Jōmon Period](./yayoi_blog_post.md)
+
+[Next - Asuka Period](./asuka_blog_post.md)
+
+[Home](../toc.md)
+
 ---
 ## Footnotes
 1. **Origins and monumentality** – Scholars note that the practice of constructing sepulchral mounds arrived from continental Asia during the third century CE.  Early kofun were simple tombs; by the late fourth and fifth centuries they grew into monumental keyhole‑shaped mounds surrounded by moats, containing coffins and grave goods such as bronze mirrors, iron weapons and horse trappings, with regional variation in size and design[1][3].

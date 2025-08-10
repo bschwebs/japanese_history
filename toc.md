@@ -1,5 +1,7 @@
 # Table of Contents
 
+![Taiko drum with Tomoe](./img/taiko_drum_tomoe.png)
+
 - [Introduction](./introduction_blog_post.md)
 
 ## Periods

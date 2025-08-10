@@ -63,6 +63,12 @@ There were also marked differences.  The **haniwa** that once ringed tombs gave 
 The Asuka period stands as a pivotal chapter in Japan’s story.  In less than two centuries, the country adopted a new religion, embraced a foreign script, experimented with capitals, wrote its first constitution and established a bureaucracy.  It weathered palace coups and civil wars, hosted envoys and armies from across the seas, and produced art and literature of enduring beauty.  By the time the court settled in Nara, the Yamato state had transformed into an empire in all but name, laying the groundwork for the splendours of the **Nara** and **Heian** periods.
 From the keyhole tombs of the Kofun to the pagodas of Asuka, from clay haniwa to bronze Buddhas, Japan’s evolution reveals a society eager to adapt, learn and build.  The Asuka period shows us that monumental change can spring not only from conquest but also from ideas: the idea of harmony in government, the idea of enlightenment and the idea that borrowed traditions can take root in new soil.  As we continue our journey through Japanese history, remember that behind every sweeping reform or grand temple are people – rulers, monks, artisans and farmers – who shaped their world with ambition and ingenuity.  Their legacies linger in the pagodas of Nara, the verses of the Man’yōshū and the modern Japanese state itself.
 
+[Prev - Kofun Period](./kofun_blog_post.md)
+
+[Next - Nara Period](./nara_blog_post.md)
+
+[Home](../toc.md)
+
 ---
 ## Footnotes
 1. **Chronology and capitals** – The Asuka period runs from roughly **538 to 710 CE**.  The capital moved from Asuka to Naniwa in 645 CE, then to Fujiwara‑kyō in 694 CE, before finally settling at Heijō‑kyō (Nara) in 710 CE, marking the end of the period[5].

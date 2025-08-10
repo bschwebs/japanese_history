@@ -31,6 +31,13 @@ Revisiting our Jōmon journey, we find both continuities and contrasts.  The Yay
 ## Conclusion – Why the Yayoi Matter Today
 The Yayoi period may not get blockbuster movies or cosplay conventions, but it arguably laid the foundation for everything that followed in Japanese civilisation.  Wet‑rice agriculture created surplus and stability.  Bronze and iron tools unlocked new possibilities in farming, warfare and art.  Villages grew into trading centres, and 100 clans jostled for power until the Yamato emerged victorious.  Belief systems evolved, burial practices reflected social hierarchies, and contact with China and Korea introduced new ideas while giving Japan its first cameo in written history.  When you savour a steaming bowl of rice or admire the minimalist beauty of a Shinto shrine, you are enjoying the legacy of the Yayoi.
 If our Jōmon story was a prologue—a tale of hunter‑gatherers crafting cord‑marked pots—then the Yayoi narrative is a whirlwind episode of **“Agriculture: The Series.”**  It’s full of innovation, rivalry, trade deals and spiritual practices, all delivered with a side of humour and curiosity.  Stay tuned as we continue our voyage through Japan’s past; next up are the gigantic tombs and imperial intrigues of the Kofun period, where bronze bells make way for iron swords and the seeds of samurai culture begin to sprout.
+
+[Prev - Jōmon Period](./jomon_blog_post.md)
+
+[Next - Kofun Period](./kofun_blog_post.md)
+
+[Home](../toc.md)
+
 ---
 ## Footnotes
 1. **Definition and periodization** – The World History Encyclopedia defines the Yayoi period as spanning from roughly **300 BCE to 250 CE** and notes that rice farming and metalworking advanced following their introduction at the end of the Jōmon.  New World Encyclopedia suggests that the period may have started as early as **900–800 BCE**.

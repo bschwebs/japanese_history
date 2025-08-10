@@ -1,53 +1,103 @@
 From Temples to Taxation: The Nara Period’s Grand Experiment
 ===========================================================
 ## Prologue – When the Pagodas Stopped Moving
+
 ![Giant bronze Buddha](./img/nara_giant_bronze_buddha.png)
+
 Our last chapter left you dizzy from the capital‑hopping antics of the **Asuka period**.  After decades of pitching palaces like traveling tents, the court finally decided to settle down.  In **710 CE**, they laid the foundation for **Heijō‑kyō**—better known as Nara—and, for the first time in Japanese history, the seat of government stayed put.  If Asuka was the turbulent teenage years of the Yamato state, the **Nara period** (710–794 CE) was its first foray into adulthood: still prone to the occasional rebellion, but suddenly obsessed with order, etiquette and giant bronze Buddhas.  In this chapter, we watch Japan emerge from clan politics into a fully bureaucratic empire, with a few plagues and palace intrigues along the way.
+
 Before we dive into the details, let’s recap: the **Asuka period** introduced **Buddhism**, Chinese writing, Confucian ideals, the **Taika Reforms**, and a taste for grand architecture.  Those innovations carried over into the Nara era, but they did not simply blossom; they were cultivated, codified and sometimes resisted.  Think of the Nara period as Asuka’s ambitious sequel—a period when the court took the blueprints drawn under Prince Shōtoku and Fujiwara no Kamatari and tried to build a functioning state.  Spoiler: it was messy, fascinating and left behind some of Japan’s greatest artistic treasures.
+
 ## The First Permanent Capital: Heijō‑kyō (Nara)
+
 ### Gridlines and Government
+
 In **710 CE**, Empress **Genmei** ordered the relocation of the court to a new city called **Heijō‑kyō**.  Laid out on a regular grid pattern inspired by **Chang’an**, the Tang dynasty capital, Heijō‑kyō covered nearly five square miles and housed perhaps **200,000** people[1].  The city boasted broad avenues, administrative compounds, markets and residential wards.  At its center stood the imperial palace, a complex of buildings used for ceremonies and governance.  For the first time, ministers and scribes could work in permanent offices rather than make‑do huts.
 The capital’s stability was more than an urban planning choice: it reflected a new attitude toward power.  **Shinto** tradition held that a new emperor should establish a new residence to avoid ritual pollution.  But the Taika Reforms and their successors demanded continuity.  A permanent capital allowed the court to accumulate records, archives and physical infrastructure—a prerequisite for any bureaucracy worth its ink.  In the subsequent decades, Heijō‑kyō would become a hub of administration and culture, attracting monks, poets, artisans and merchants from across Japan and beyond.
+
 ### Temples, Temples Everywhere
+
 If you looked out from the palace balcony in mid‑8th‑century Nara, you would have seen rooftops of state offices and the sloping eaves of Buddhist monasteries.  The Asuka period introduced Buddhism, but the **Nara court embraced it with gusto**.  Emperor **Shōmu** (r. 724–749) believed that a unified religion could unify the realm; thus he sponsored the construction of provincial temples (**kokubunji**) and convents (**kokubunniji**) across Japan.  These institutions were not just religious centers; they served as schools, hospitals and administrative outposts, spreading imperial influence into the provinces[1].
+
 The crown jewel of Shōmu’s program was **Tōdai‑ji**, located in the northeastern corner of Nara.  The temple’s **Great Buddha Hall** housed the **Daibutsu**, a bronze statue of **Vairocana Buddha** standing over fifty feet tall.  Casting such a colossal image required a nationwide mobilization of resources, including taxes in bronze, labor and rice.  The hall itself was one of the largest wooden buildings in the world.  When the Daibutsu was consecrated in **752 CE**, dignitaries from India, China and Korea attended the ceremony; it was a diplomatic and religious spectacle that signaled Japan’s arrival on the international stage.
+
 But temple construction had a downside: it strained the treasury.  Shōmu’s lavish patronage, combined with natural disasters and epidemics, led to economic hardship.  As we shall see, the Nara government’s attempts to raise revenue would have far‑reaching consequences.
+
 ## The Ritsuryō State: Law, Taxes and Rank
+
 ### Codifying Power
+
 Building temples was only one facet of the Nara agenda.  The court sought to embed the reforms of Asuka into a **ritsuryō** system—a legal framework modeled on Tang Chinese codes.  The word comes from **ritsu** (criminal law) and **ryō** (administrative law).  Collectively, these codes regulated everything from the structure of government ministries to the obligations of commoners and the privileges of nobles.  Under the ritsuryō state, the emperor stood atop a hierarchy of offices; beneath him, **eight ministries** managed affairs such as rites, civil administration, justice and the imperial household.  Officials were appointed based on rank rather than bloodline, at least in theory.
+
 The codes also introduced a formal tax system.  Farmers were registered, land was measured, and taxes were levied in **rice**, **cloth** and **labor**.  The **Handen‑shūju** system allocated land to households based on household size, reclaiming fields for redistribution every six years.  In return, peasants owed a portion of their crops and time to the state.  On paper, this system promised fairness and central control.  In practice, elites often manipulated it to amass estates, and peasants resented the heavy burdens.  Still, the ritsuryō codes gave Japan a legal backbone that would influence governance for centuries.
+
 ### New Ranks, Old Families
+
 If the codes were meant to curb clan power, they only partly succeeded.  Prestigious families—especially the **Fujiwara** clan—found ways to thrive under the new order.  Fujiwara nobles secured high offices and married their daughters to emperors, consolidating their influence.  One notable figure was **Fujiwara no Hirotsugu**, who served as governor of Dazaifu (the western outpost on Kyushu) but rebelled against the court in **740 CE**.  His uprising, fueled by anger at tax burdens and centralization, was quickly crushed, but it highlighted tension between the capital and provinces[1].
+
 Meanwhile, the court created new aristocratic ranks to reward service and loyalty.  Titles such as **u** (rank) and **shō** (junior) signaled one’s place in the bureaucracy.  Although the codes theoretically opened posts to talent, in practice the sons and nephews of powerful houses filled the top ranks.  It wouldn’t be Japan without a bit of nepotism.
+
 ## Trials by Fire, Flood and Pestilence
+
 ### Smallpox and Hard Times
+
 The Nara period’s grandeur was punctuated by tragedies that tested the fledgling state.  Between **735 and 737 CE**, a **devastating smallpox epidemic** swept through Japan, killing an estimated **25–35 percent** of the population[1].  Whole villages vanished; fields lay fallow; tax revenues collapsed.  The court responded by remitting taxes, distributing rice and, unsurprisingly, commissioning more Buddhist rites to placate the gods.  Historian scribes recorded the outbreak, making it one of the earliest documented epidemics in Japanese history.
+
 The smallpox crisis coincided with a series of **famines** and **natural disasters**, including floods and earthquakes.  These calamities further strained the treasury and undermined faith in the government.  Some blamed the disasters on Buddhist temples sucking up resources, while others saw them as divine punishment for the court’s extravagance.  In a twist of cosmic irony, Emperor Shōmu abdicated and took vows as a monk, leaving his daughter, Empress **Kōken** (also known as Empress **Shōtoku**), to handle the fallout.
+
 ### Dokyō, Love and Politics
+
 If the Nara period had a tabloid, the leading story would have been the scandal of **Empress Kōken** and the monk **Dōkyō**.  After the smallpox epidemic and her father’s abdication, Kōken resumed the throne (as Shōtoku) and became infatuated with Dōkyō, a charismatic Buddhist monk who claimed to heal her ailments.  Elevating him to high office, she contemplated naming him emperor, which horrified the Fujiwara and other aristocrats.  When Kōken died in **770 CE**, Dōkyō was exiled, and the court enacted a new rule prohibiting women from becoming emperor.  The episode underscored tensions between secular and religious authority and the fragile standing of female sovereigns.
+
 ## Literature, Art and Daily Life
+
 ### Writing History and Poetry
+
 The Nara court was keenly aware of its place in history.  It commissioned two monumental chronicles, the **Kojiki** (712) and the **Nihon Shoki** (720), which recorded myths, genealogies and early history.  These works blended Shinto legends with political propaganda, tracing imperial lineage back to the **sun goddess Amaterasu**.  They also placed the Nara state in a broader East Asian context, recording diplomatic exchanges with **Silla**, **Balhae** and the **Tang** court.
 While scribes were drafting histories, poets were crafting verses.  The **Man’yōshū**, compiled around **759 CE**, is Japan’s oldest surviving poetry anthology.  It contains some 4,500 poems written by emperors, courtiers and commoners.  The collection covers topics from love and loss to travel and politics.  Its poems reveal the human side of Nara life: mothers worrying about sons conscripted to the frontier, noblewomen lamenting unfaithful lovers and farmers describing heavy taxes.  Most verses are written in a phonetic script derived from Chinese characters, showing how literacy had spread beyond the court.
+
 ### Sculpture, Painting and Crafts
+
 Buddhism drove artistic innovation during the Nara period.  Sculptors carved **clay dry‑lacquer figures**, assembled from layers of hemp or lacquered cloth around a wooden core.  The resulting statues were lightweight yet intricate, capturing the serene expressions of bodhisattvas and guardian kings.  Wooden carvings continued, but lacquer allowed for greater detail and durability.
 Painting also flourished.  Murals adorned temple walls and tomb interiors, depicting heavenly paradises and court life.  The **Tōshōdai‑ji** temple houses a famous portrait of **Jianzhen** (Ganjin), the Chinese monk who brought precepts and meditation techniques to Japan in **753 CE**.  Craftsmen produced luxuries such as **shot silk**, ceramics, gilt‑bronze mirrors and **mokkan** (wooden tablets) used for record keeping and letters.
+
 Daily life in Nara was a blend of grandeur and struggle.  The aristocracy enjoyed sumptuous banquets, music and dance performances imported from the continent.  Men wore layered robes; women favoured colourful garments with long sleeves.  Commoners, on the other hand, toiled in the fields and paid taxes.  Slavery remained a feature of society, with captives taken in war or punished criminals serving in households and temples.  Diseases, droughts and banditry were ever‑present threats.  Yet even peasants participated in religious festivals and enjoyed folk songs.  The Nara period was a time of contrasts: opulent temples and destitute villages; elaborate law codes and everyday improvisation.
+
 ## Diplomacy and the Wider World
+
 ### Korean and Chinese Connections
+
 The Nara period built on the Asuka era’s fascination with continental Asia.  Envoys traveled regularly to **Tang China**, where they studied government, architecture, medicine and Buddhism.  The most famous embassy, the **Kentōshi**, consisted of ships carrying monks, students and officials across the sea.  Not all voyages succeeded—storms sank several vessels—but those who returned brought books, musical instruments, medical texts and new fashions.  Chinese influence is evident in Nara’s city plan, temple layouts and court ceremonies.
+
 At the same time, Japan maintained contact with the kingdoms of the Korean peninsula.  **Balhae** (in present‑day Manchuria) and **Silla** sent ambassadors to Nara and exchanged gifts, including horses, fur and medicine.  Skilled artisans from these states settled in Japan, working as metal‑workers, potters and scribes.  The Nara court hired them to teach new techniques and craft luxury goods for the emperor.
+
 ### Missionaries and Merchants
+
 Religion and commerce intertwined.  Japanese monks traveled abroad to receive **ordination** and study Buddhist texts.  **Jianzhen (Ganjin)**, a blind monk from **Tang China**, tried five times to reach Japan before succeeding in **753 CE**.  Invited by the emperor, Ganjin founded **Tōshōdai‑ji** in Nara and taught **Ritsu** (Vinaya) precepts, establishing the discipline among Japanese clergy.  He also introduced new medicine and art techniques.
+
 Merchants braved pirates and storms to trade with **Southeast Asia**.  They imported **spices**, **fragrances** and **glassware** from as far away as **Persia** via maritime routes.  Some scholars believe Persian glass pieces found in Nara were diplomatic gifts.  These connections illustrate Nara’s role as a hub in a network spanning Eurasia, though trade remained limited compared to later periods.
+
 ## A Crisis of Faith and Famine: The End of Nara
+
 ### Emperor Kammu and the Move to Heian‑kyō
+
 Despite the grandeur of Nara, by the late 8th century the court faced mounting problems: tax revenues fell; temples amassed vast landholdings exempt from taxes; powerful monks meddled in politics; epidemics and harvest failures persisted.  Many officials believed that the capital was spiritually polluted by scandal and disaster.  Enter **Emperor Kammu** (r. 781–806).  In **784 CE**, he moved the capital to **Nagaoka‑kyō**, away from Nara’s influential clergy.  However, construction accidents and the murder of Kammu’s brother plagued the new site, leading him to relocate again in **794 CE** to **Heian‑kyō** (modern Kyoto).  This move marks the end of the Nara period and the beginning of the **Heian era**.
+
 The shift to Heian‑kyō signaled a new balance of power.  In Heian, the Fujiwara clan would ascend to even greater heights, and the court would immerse itself in literary pursuits.  Yet Nara’s legacy endured.  Its temples continued to thrive, its codes influenced law for centuries and its cultural treasures survived fires, wars and neglect.  Modern visitors can still wander the corridors of Tōdai‑ji and imagine the awe of pilgrims who beheld the Daibutsu for the first time.
+
 ## Epilogue – From Earthen Graves to Bronze Buddhas
+
 Tracing Japanese history from the **Kofun** to the **Asuka** and now **Nara** periods is like watching a society discover its identity.  In the Kofun era, clan leaders built colossal tombs to assert their power.  In Asuka, reformers looked outward, importing ideas to centralize authority and adopt Buddhism.  By the Nara period, those imports had been naturalized and monumentalized.  Temples replaced tombs as symbols of legitimacy, and law codes replaced clan pacts.
+
 The Nara period also reminds us that progress is messy.  Attempting to copy Tang China’s governance brought benefits—written law, central bureaucracy—but also unintended consequences, such as heavy taxation and social stratification.  Patronage of Buddhism produced sublime art and architecture while fueling political scandals and economic woes.  The smallpox epidemic showed that even the most glorious temple cannot shield a populace from microscopic threats.  And the Dōkyō affair revealed the perils of mixing spirituality with statecraft.
+
 Yet, for all its troubles, the Nara period bequeathed to Japan a foundation of culture and governance.  It established a capital that anchored the court for seven decades, codified law, compiled histories and produced art that still inspires.  It also set the stage for the **Heian period**, where literary elegance would bloom and the Fujiwara would become power brokers.  As we turn the page to Heian, we carry forward the stories of emperors, monks, poets and farmers who lived through this golden yet turbulent age.
+
+[Prev - Nara Period](./nara_blog_post.md)
+
+[Next - Heian Period](./heian_blog_post.md)
+
+[Home](../toc.md)
 
 ---
 ## Footnotes

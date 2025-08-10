@@ -1,5 +1,7 @@
 # Historical Outline of Japan by Era
 
+![Era chart english](./img/era_chart_english.png)
+
 ## Jōmon Period (c. 14,500 BCE – c. 300 BCE)
 
 ### [Jōmon period](./blog_posts/jomon_blog_post.md)
@@ -143,6 +145,10 @@
 - **Important figures:**  **Emperor Naruhito**, Prime Ministers **Suga Yoshihide**, **Kishida Fumio**, former Prime Minister **Shinzō Abe** (assassinated).
 - **Important moments:**  COVID‑19 response; hosting of **Tokyo Olympics (2020/2021)**; assassination of Shinzō Abe; Noto Peninsula earthquake.
 - **Tragedies:**  Pandemic deaths and economic disruption; **Noto Peninsula earthquake** causing hundreds of casualties; assassination of a former leader.
+
+[Home](./toc.md)
+
+---
 
 ## Summary Table of Eras
 
