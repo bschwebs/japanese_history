@@ -76,8 +76,8 @@
 
 ### [Azuchi-Momoyama period](./blog_posts/azuchi_blog_post.md)
 
-- **Overview & culture:**  The warlord **Oda Nobunaga** seized Kyoto in **1568** and embarked on unifying Japan.  He **destroyed militant Buddhist sects** and defeated the Takeda clan at the **Battle of Nagashino (1575)**.  After Nobunaga’s death in **1582**, his general **Toyotomi Hideyoshi** continued the unification.  Hideyoshi enacted the **“sword hunt”** (1588) to disarm peasants and ordered a **census and land survey**; he restricted social mobility and persecuted Christian missionaries (executing 26 martyrs in 1597).  Hideyoshi launched costly invasions of **Korea** (1592–1598).  After his death (1598), power struggles culminated in the **Battle of Sekigahara (1600)**.
-- **Important figures:**  **Oda Nobunaga**, **Toyotomi Hideyoshi**, **Tokugawa Ieyasu** (emerged victorious at Sekigahara).
+- **Overview & culture:**  The warlord [**Oda Nobunaga**](./blog_posts/oda_nobunaga_blog_post.md) seized Kyoto in **1568** and embarked on unifying Japan.  He **destroyed militant Buddhist sects** and defeated the Takeda clan at the **Battle of Nagashino (1575)**.  After Nobunaga’s death in **1582**, his general **Toyotomi Hideyoshi** continued the unification.  Hideyoshi enacted the **“sword hunt”** (1588) to disarm peasants and ordered a **census and land survey**; he restricted social mobility and persecuted Christian missionaries (executing 26 martyrs in 1597).  Hideyoshi launched costly invasions of **Korea** (1592–1598).  After his death (1598), power struggles culminated in the **Battle of Sekigahara (1600)**.
+- **Important figures:**  [**Oda Nobunaga**](./blog_posts/oda_nobunaga_blog_post.md), **Toyotomi Hideyoshi**, **Tokugawa Ieyasu** (emerged victorious at Sekigahara).
 - **Important moments:**  Unification campaigns; suppression of warrior monks; sword hunt and class system; invasions of Korea.
 - **Tragedies:**  Brutal warfare; atrocities during the Korean invasions; persecution of Christians.
 

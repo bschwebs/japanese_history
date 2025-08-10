@@ -34,7 +34,7 @@ With Emperor Akihito’s accession in 1989 began the [**Heisei era**](./blog_pos
 
 ### Figures to Watch
 
-Throughout this series you’ll meet visionary leaders and ordinary people who left extraordinary marks.  From mythical Emperor Jimmu to charismatic warlords like Oda Nobunaga and statesmen such as Prince Shōtoku and Emperor Meiji, we’ll explore how individuals shaped Japan’s institutions.  We’ll also learn about powerful families (the Fujiwara, Hojo and Tokugawa) and examine how commoners—farmers, artisans, merchants, women and activists—drove change, whether by rioting over rice prices or volunteering after earthquakes.
+Throughout this series you’ll meet visionary leaders and ordinary people who left extraordinary marks.  From mythical Emperor Jimmu to charismatic warlords like Oda Nobunaga and statesmen such as [Prince Shōtoku](./blog_posts/prince_shotoku_blog_post.md) and Emperor Meiji, we’ll explore how individuals shaped Japan’s institutions.  We’ll also learn about powerful families (the Fujiwara, Hojo and Tokugawa) and examine how commoners—farmers, artisans, merchants, women and activists—drove change, whether by rioting over rice prices or volunteering after earthquakes.
 
 ### Join the Journey
 
@@ -42,22 +42,22 @@ Each post delves deeper into the eras summarised here, blending humour and schol
 
 ### Footnotes
 
-1. The Jōmon period (c. 14,500 BCE – 300 BCE) is named for the cord‑marked patterns on its pottery and was characterised by semi‑sedentary hunter‑gatherers living in pit dwellings.
-2. The Yayoi period (c. 300 BCE – 250 CE) saw migrants introduce wet‑rice agriculture and metalworking, leading to social stratification.
-3. The Kofun period (c. 250 – 538 CE) produced giant keyhole‑shaped tombs and marked the rise of the Yamato state.
-4. During the Asuka period, Prince Shōtoku and the Taika Reforms centralised government and promoted Buddhism.
-5. In the Nara period (710 – 794), Japan built its first permanent capital at Nara, designed on a Chinese grid plan.
-6. The same period suffered heavy taxation and a smallpox epidemic that decimated up to a third of the population.
-7. The Heian period’s Fujiwara regents fostered courtly culture and literature, producing works like *The Tale of Genji*.
-8. The Kamakura shogunate, founded by Minamoto Yoritomo, withstood two Mongol invasion attempts thanks partly to typhoons.
-9. The Muromachi period was marred by the Ōnin War, which plunged the country into the Sengoku era of warring states.
-10. Oda Nobunaga captured Kyoto and destroyed rival Buddhist forces during his campaign to unify Japan.
-11. Toyotomi Hideyoshi completed unification, confiscated weapons through his “sword hunt” and launched two invasions of Korea.
-12. Under the Tokugawa shogunate, Japan enforced a strict social hierarchy and isolationist policies known as *sakoku*.
-13. The Meiji Restoration of 1868 toppled the shogunate and led to rapid modernisation, including conscription, railways and constitutional government.
-14. During the Taishō era, democratic reforms coincided with social unrest and the devastating 1923 Great Kantō Earthquake.
-15. Early Shōwa Japan pursued militaristic expansion, invading Manchuria and China and eventually attacking Pearl Harbor.
-16. Post‑war reforms under U.S. occupation and a pacifist constitution paved the way for Japan’s rapid economic recovery and civic activism.
-17. The Heisei era witnessed a speculative bubble that burst into a prolonged “Lost Decade” of economic stagnation.
-18. Heisei tragedies included the 1995 Kobe earthquake, the Tokyo subway sarin attack, and the 2011 Tōhoku earthquake and Fukushima nuclear disaster.
-19. The Reiwa era has already faced a pandemic, the assassination of former prime minister Shinzō Abe and the 2024 Noto Peninsula earthquake.
+1. The Jōmon period (c. 14,500 BCE – 300 BCE) is named for the cord‑marked patterns on its pottery and was characterised by semi‑sedentary hunter‑gatherers living in pit dwellings.
+2. The Yayoi period (c. 300 BCE – 250 CE) saw migrants introduce wet‑rice agriculture and metalworking, leading to social stratification.
+3. The Kofun period (c. 250 – 538 CE) produced giant keyhole‑shaped tombs and marked the rise of the Yamato state.
+4. During the Asuka period, Prince Shōtoku and the Taika Reforms centralised government and promoted Buddhism.
+5. In the Nara period (710 – 794), Japan built its first permanent capital at Nara, designed on a Chinese grid plan.
+6. The same period suffered heavy taxation and a smallpox epidemic that decimated up to a third of the population.
+7. The Heian period’s Fujiwara regents fostered courtly culture and literature, producing works like *The Tale of Genji*.
+8. The Kamakura shogunate, founded by Minamoto Yoritomo, withstood two Mongol invasion attempts thanks partly to typhoons.
+9. The Muromachi period was marred by the Ōnin War, which plunged the country into the Sengoku era of warring states.
+10. Oda Nobunaga captured Kyoto and destroyed rival Buddhist forces during his campaign to unify Japan.
+11. Toyotomi Hideyoshi completed unification, confiscated weapons through his “sword hunt” and launched two invasions of Korea.
+12. Under the Tokugawa shogunate, Japan enforced a strict social hierarchy and isolationist policies known as *sakoku*.
+13. The Meiji Restoration of 1868 toppled the shogunate and led to rapid modernisation, including conscription, railways and constitutional government.
+14. During the Taishō era, democratic reforms coincided with social unrest and the devastating 1923 Great Kantō Earthquake.
+15. Early Shōwa Japan pursued militaristic expansion, invading Manchuria and China and eventually attacking Pearl Harbor.
+16. Post‑war reforms under U.S. occupation and a pacifist constitution paved the way for Japan’s rapid economic recovery and civic activism.
+17. The Heisei era witnessed a speculative bubble that burst into a prolonged “Lost Decade” of economic stagnation.
+18. Heisei tragedies included the 1995 Kobe earthquake, the Tokyo subway sarin attack, and the 2011 Tōhoku earthquake and Fukushima nuclear disaster.
+19. The Reiwa era has already faced a pandemic, the assassination of former prime minister Shinzō Abe and the 2024 Noto Peninsula earthquake.
