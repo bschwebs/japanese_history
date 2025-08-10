@@ -7,12 +7,16 @@
 - **Notable events:**  Development of cord‑marked pottery; introduction of rudimentary agriculture toward the end of the period.
 - **Tragedies:**  Evidence of natural disasters exists in the archaeological record (tsunami deposits), but no documented tragedies.
 
+[Jōmon Blog](./blog_posts/jomon_blog_post.md)
+
 ## Yayoi Period (c. 300 BCE – c. 250 CE)
 
 - **Overview & culture:**  The **Yayoi** period saw the **introduction of wet‑rice agriculture and metalworking**.  Stone tools were gradually replaced by bronze and iron implements, irrigation techniques were developed and communal granaries appeared.  Populations grew and many settlements became large villages; the **Asahi** settlement covered about 200 acres.
 - **Important figures:**  Early clan leaders; the period culminates with the semi‑legendary **Queen Himiko**, a shaman queen who ruled the state of **Yamatai** (Yamato) in the 3rd century and sent embassies to the Chinese **Wei dynasty**.
 - **Important moments:**  Introduction of rice agriculture and metal tools; emergence of social classes and early trading networks.
 - **Tragedies:**  None documented; this era predates written records.
+
+[Yayoi Blog](./blog_posts/yayoi_blog_post.md)
 
 ## Kofun Period (c. 250 – 538)
 
