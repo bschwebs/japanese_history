@@ -87,5 +87,3 @@ The Jōmon period may be shrouded in mystery, but it continues to captivate arch
 ---
 
 *Note: Footnote numbers correspond to the citations listed above.  For readability, citations are included in brackets within the text.*
-
-### [Yayoi Blog](./yayoi_blog_post.md)
