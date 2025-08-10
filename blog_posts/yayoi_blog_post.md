@@ -74,3 +74,5 @@ If our Jōmon story was a prologue—a tale of hunter‑gatherers crafting cord�
 7. **Beliefs and burial customs** – Yayoi people worshipped various gods, held festivals, and used bronze items for ceremonies.  Burials varied according to status, with some involving red‑ochre‑painted bones and square trenches surrounded by moats.
 8. **Chinese records** – The Han Shu and Wei Zhi mention Wa, describing hundreds of kingdoms and the rule of **Queen Himiko**.  She sent tribute to China and was recognised as Queen of all Japan.  After her death, turmoil ensued until a relative named Iyo took control.
 9. **Legacy** – World History Encyclopedia remarks that the Yayoi period marks Japan’s transition from hunter‑gatherer bands to an agrarian, militarized society with a class system, laying foundations for the **samurai**, **daimyō** and the **Chrysanthemum Throne**.
+
+[Kofun Blog](./kofun_blog_post.md)
