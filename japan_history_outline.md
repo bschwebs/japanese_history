@@ -2,23 +2,25 @@
 
 ## Jōmon Period (c. 14,500 BCE – c. 300 BCE)
 
+### [Jōmon Blog](./blog_posts/jomon_blog_post.md)
+
 - **Overview & culture:**  Japan’s earliest known culture was the hunter‑gatherer **Jōmon** people.  The name *Jōmon* means *“cord‑marked”* and refers to the distinctive pottery patterns.  They lived in pit dwellings and relied on fishing, hunting and foraging.  Around **900 BCE** rice farming was introduced, marking a gradual shift toward agriculture.  Population expanded and by c. 3,000 BCE there were possibly hundreds of thousands of people.
 - **Important figures:**  No specific rulers are recorded for this prehistoric era.
 - **Notable events:**  Development of cord‑marked pottery; introduction of rudimentary agriculture toward the end of the period.
 - **Tragedies:**  Evidence of natural disasters exists in the archaeological record (tsunami deposits), but no documented tragedies.
 
-[Jōmon Blog](./blog_posts/jomon_blog_post.md)
-
 ## Yayoi Period (c. 300 BCE – c. 250 CE)
+
+### [Yayoi Blog](./blog_posts/yayoi_blog_post.md)
 
 - **Overview & culture:**  The **Yayoi** period saw the **introduction of wet‑rice agriculture and metalworking**.  Stone tools were gradually replaced by bronze and iron implements, irrigation techniques were developed and communal granaries appeared.  Populations grew and many settlements became large villages; the **Asahi** settlement covered about 200 acres.
 - **Important figures:**  Early clan leaders; the period culminates with the semi‑legendary **Queen Himiko**, a shaman queen who ruled the state of **Yamatai** (Yamato) in the 3rd century and sent embassies to the Chinese **Wei dynasty**.
 - **Important moments:**  Introduction of rice agriculture and metal tools; emergence of social classes and early trading networks.
 - **Tragedies:**  None documented; this era predates written records.
 
-[Yayoi Blog](./blog_posts/yayoi_blog_post.md)
-
 ## Kofun Period (c. 250 – 538)
+
+### [Kofun Blog](./blog_posts/kofun_blog_post.md)
 
 - **Overview & culture:**  Named after the **kofun** (large earthen burial mounds), this era marks the rise of the **Yamato clan**, who established control over central Japan and later formed the imperial lineage.  **Shinto** beliefs emerged and elaborate **haniwa** clay figures were placed around tombs.  New technologies—ironworking and improved irrigation—spread across the islands.
 - **Important figures:**  Early emperors from the Yamato lineage (Emperor Sujin, Emperor Nintoku); **Queen Himiko** may overlap into this period.
@@ -26,6 +28,8 @@
 - **Tragedies:**  No specific tragedies recorded; conflicts between clans likely occurred.
 
 ## Asuka Period (538 – 710)
+
+### [Asuka Blog](./blog_posts/asuka_blog_post.md)
 
 - **Overview & culture:**  Increased interaction with Korea and China brought **Buddhism** and Chinese governmental models.  **Empress Suiko** reigned with her nephew **Prince Shōtoku** as regent; Shotoku promoted Buddhism and issued a **“Seventeen‑Article Constitution”** to guide government.  After **Fujiwara no Kamatari** launched a coup in **645**, the **Taika Reforms** nationalised land and restructured administration along Chinese lines.  The period ended following the **Jinshin Incident** (671–672), when **Emperor Tenmu** purged rivals to secure succession.
 - **Important figures:**  Empress **Suiko**, **Prince Shōtoku**, **Fujiwara no Kamatari**, **Emperor Tenmu**.
