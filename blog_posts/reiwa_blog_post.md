@@ -1,23 +1,45 @@
 ## Beautiful Harmony Meets Uncertain Times: Japan’s Reiwa Era (2019–Present)
+
+![Nurse](./img/reiwa_nurse.png)
+
 In April 2019, millions of Japanese viewers took a break from their workday to watch Chief Cabinet Secretary Yoshihide Suga hold up a calligraphy panel bearing two unfamiliar characters.  The government had announced the name of the new imperial era: **Reiwa**, drawn from an eighth‑century poem about plum blossoms.  Prime Minister Shinzō Abe explained that the name signified “a culture being born and nurtured by people coming together beautifully”.  With Emperor Akihito’s abdication and his son Naruhito’s accession on May 1, the Heisei era quietly ended and Reiwa—“beautiful harmony”—began.
+
 Three decades of Heisei had taught Japan that labels can be aspirational.  What followed the bubble economy were deflation and disasters.  Reiwa would prove no different.  Although the new era started with fresh coins and updated operating systems, the hopes for a peaceful reset were quickly tested.
+
 ### The Longest‑Serving Prime Minister Steps Aside
+
 Before Reiwa had fully unfolded, Prime Minister Shinzō Abe achieved a historic milestone by becoming Japan’s longest‑serving prime minister in November 2019.  Abe had returned to office in 2012 promising to revive the economy with a three‑arrow policy of monetary easing, fiscal stimulus and structural reform.  He also sought to reinterpret the pacifist constitution to allow a more active security role and to strengthen Japan’s alliance with the United States.  Yet his tenure was plagued by scandals and constitutional controversies.  In September 2020 he resigned, citing health problems.  Yoshihide Suga, the same official who had announced the era name, briefly assumed the premiership.  Suga focused on digital reform and the pandemic response but quickly faced criticism for perceived sluggishness and for hosting the delayed Tokyo Olympics amid rising infections.  He stepped down after a year, paving the way for Fumio Kishida to become Japan’s 100th prime minister in October 2021.
+
 ### The COVID‑19 Pandemic Arrives
+
 Barely a year into the new era, news bulletins showed a different kind of calligraphy: **COVID‑19**.  Japan reported its first confirmed case of SARS‑CoV‑2 outside China in mid‑January 2020.  Initially the government avoided drastic measures, hoping to preserve the economy and the scheduled Summer Olympics.  By March, however, cases surged, schools closed, and citizens donned masks as shortages of toilet paper and hand sanitiser ensued.  Traditional gestures such as bowing replaced handshakes.  The government declared states of emergency but avoided the strict lockdowns seen elsewhere, relying on public cooperation.  Despite criticism over delayed vaccination and insufficient testing, Japan’s infection rates remained comparatively low, partly because of widespread mask‑wearing and a culture of hygiene.  The Summer Olympics, slated for 2020, were postponed to 2021 and held in largely empty stadiums.  Athletes performed for television cameras while volunteers and officials attempted to inject festive spirit into a pandemic‑era spectacle.
 Amid the pandemic gloom, Japan celebrated a different kind of race.  In June 2020, the supercomputer **Fugaku** was declared the world’s most powerful system with a performance of 415 petaflops.  Developed by the RIKEN research institute and Fujitsu, Fugaku assisted scientists in modeling COVID‑19 droplet spread and vaccine design.  It also became a symbol of Japan’s enduring technological prowess even as its economic growth slowed.
+
 ### Natural Disasters in the New Era
+
 Disasters have long punctuated Japanese history, and Reiwa quickly added its own entries.  In March 2022 a strong offshore earthquake near Fukushima rattled homes and injured residents.  Though less destructive than the 2011 Tōhoku catastrophe, it brought back memories of tsunami sirens and nuclear meltdowns, revealing the psychological scars left by past disasters.
+
 On New Year’s Day 2024, a magnitude 7.5/7.6 earthquake struck the Noto Peninsula in Ishikawa Prefecture.  The quake reached the maximum intensity of 7 on the Japanese seismic scale, triggered landslides and fires, and even uplifted sections of coastline by up to 820 feet.  Tsunami waves between 16 and 47 inches battered the coast.  By August 2024 authorities reported 281 direct and indirect deaths and around 600 injuries.  The disaster underscored the importance of constant preparedness and led to renewed calls for resilient infrastructure and community drills, which were credited with reducing casualties compared with earlier disasters.
+
 ### Violence Shocks a Peaceful Nation
+
 Japan prides itself on public safety and extremely low rates of violent crime.  That reputation was shaken to its core on July 8 2022 when former Prime Minister Shinzō Abe was shot while giving a campaign speech in Nara.  He was airlifted to a hospital but succumbed to neck and heart wounds.  The assassination stunned the nation—Abe had been a towering figure whose political influence extended well beyond his resignation.  The suspect, a disgruntled former member of the Maritime Self‑Defense Force, claimed his motive was unrelated to Abe’s policies.  The killing sparked debates about gun control (Japan already has some of the world’s strictest firearm regulations) and the need for better protection of public figures.  It also led to introspection about the polarisation and online vitriol that had seeped into Japanese politics.
+
 ### Economic and Security Shifts
+
 The pandemic caused Japan’s economy to contract sharply in 2020, but subsequent years saw a rebound driven by exports and consumer spending.  Nonetheless, the country continues to grapple with demographic decline, labour shortages and the need to adapt industries for digitalisation.  In December 2022 the government announced plans to increase defence spending and adopt a more proactive national security strategy.  This shift—supported by the United States but controversial domestically—reflects growing concerns over China’s military expansion and North Korea’s missile programme.  Japan also joined Western democracies in imposing sanctions on Russia following its invasion of Ukraine, the first Asian country to do so.  These actions signal that Reiwa Japan is willing to take clearer stances on international conflicts.
+
 ### Cultural Resilience and Innovation
+
 Even amid crises, the creative energies that blossomed in Heisei have continued.  Anime and manga remain global juggernauts, with franchises like *Demon Slayer* and *Attack on Titan* breaking box office records.  Idol groups such as BTS’s Japanese cousins dominate streaming charts, and Japanese fashion designers collaborate with global brands.  During lockdowns, many young Japanese turned to *Animal Crossing* and other video games to find community.  The pandemic accelerated acceptance of remote work and online education, long resisted in a culture that prized in‑person collaboration.  Companies adopted four‑day workweeks and telecommuting, while rural villages offered subsidies to remote workers, hoping to attract families to depopulated regions.
+
 ### Looking Forward: Challenges and Hopes
+
 Reiwa Japan faces a complex to‑do list.  The triple challenge of an ageing population, climate change and geopolitical uncertainty looms large.  Baby boomers are retiring, straining pensions and healthcare systems.  Intense weather—typhoons, heat waves and torrential rains—reminds citizens that climate change is not a distant threat.  Digital transformation remains uneven; while some sectors embrace automation and AI, others struggle to adapt.  At the same time, younger generations are asserting new values around work‑life balance, gender equality and diversity.  Civil society groups, emboldened by pandemic mutual aid networks, campaign for social justice and environmental stewardship.
+
 The Reiwa era is still young.  Its name promises beautiful harmony, yet its early years have been defined by disruption and reorientation.  Japan’s experience with past upheavals—feudal wars, fires, earthquakes, atomic bombs, bubbles and lost decades—has forged a culture adept at absorbing shocks and reinventing itself.  This resilience will be crucial as Reiwa Japan navigates a world where pandemics, climate crises and geopolitical tensions are part of the landscape.  In our next instalment, we’ll see how the early years of Reiwa set the stage for the Japan of the 2030s and beyond.
+
+---
 ### Footnotes
 1.  Prime Minister Shinzō Abe explained that the Reiwa era name signified a culture fostered by people coming together beautifully.
 2.  Reiwa began on May 1 2019, following Emperor Akihito’s abdication and Naruhito’s accession.

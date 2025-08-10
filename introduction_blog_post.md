@@ -1,5 +1,7 @@
 ## Welcome to Our Journey Through Japan’s Eras
 
+![Japanese flag](./img/japanese_flag.png)
+
 Japan’s history is often portrayed as a seamless progression from ancient gods to modern bullet trains, but in reality it is a tapestry woven from hunter‑gatherer rituals, court intrigues, civil wars, art movements, disasters and rebirths.  This blog series explores Japan’s past era by era, highlighting the turning points and personalities that shaped the archipelago.  As a prelude, let us preview some of the most intriguing episodes and figures you will encounter.
 
 ### Prehistoric Foundations: Jōmon to Yayoi
@@ -18,7 +20,7 @@ During the [**Heian period**](./blog_posts/heian_blog_post.md) (794 – 1185), 
 
 ### Feudal Fractures and Unification: Muromachi to Azuchi–Momoyama
 
-The [**Muromachi (Ashikaga) period**](./blog_posts/muromachi_blog_post.md) (1336 – 1573) began with civil war and ended in the century‑long Sengoku or “warring states” era.  The Ōnin War devastated Kyoto and fragmented authority[9], but Zen aesthetics inspired art forms like *Noh* theatre and the tea ceremony.  Out of the chaos emerged three unifiers: **Oda Nobunaga**, **Toyotomi Hideyoshi** and **Tokugawa Ieyasu**.  Nobunaga seized Kyoto, embraced firearms and ruthlessly eliminated rivals, even burning the Buddhist stronghold of Enryaku‑ji[10].  Hideyoshi completed unification, conducted land surveys and a famous “sword hunt” to disarm peasants, and launched ill‑fated invasions of Korea[11].  Their efforts set the stage for the [**Edo period**](./blog_posts/edo_blog_post.md).
+The [**Muromachi (Ashikaga) period**](./blog_posts/muromachi_blog_post.md) (1336 – 1573) began with civil war and ended in the century‑long Sengoku or “warring states” era.  The Ōnin War devastated Kyoto and fragmented authority[9], but Zen aesthetics inspired art forms like *Noh* theatre and the tea ceremony.  Out of the chaos emerged three unifiers: [**Oda Nobunaga**](./blog_posts/oda_nobunaga_blog_post.md), **Toyotomi Hideyoshi** and **Tokugawa Ieyasu**.  Nobunaga seized Kyoto, embraced firearms and ruthlessly eliminated rivals, even burning the Buddhist stronghold of Enryaku‑ji[10].  Hideyoshi completed unification, conducted land surveys and a famous “sword hunt” to disarm peasants, and launched ill‑fated invasions of Korea[11].  Their efforts set the stage for the [**Edo period**](./blog_posts/edo_blog_post.md).
 
 ### Peace, Isolation and Modernisation: Edo to Meiji
 

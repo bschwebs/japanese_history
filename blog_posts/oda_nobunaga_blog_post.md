@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Oda nobunaga](./img/oda_nobunaga.png)
+
 If Japanese history had a rock-and-roll hall of fame, **Oda Nobunaga** would have his own wing — complete with a gold-leaf war helmet, a smoking matchlock gun, and maybe a half-burned Buddhist monastery. Born in 1534, Nobunaga wasn’t just another samurai lord clawing for power in the chaotic Sengoku (“Warring States”) period; he was the guy who walked into a fractured, war-torn Japan and thought, "You know what this place needs? A full-blown unification… and some firearms for extra spice."
 
 The man was equal parts visionary, ruthless tactician, and cultural innovator. If **Toyotomi Hideyoshi** was the master builder and Tokugawa Ieyasu the careful consolidator, Nobunaga was the demolition expert who cleared the lot.
