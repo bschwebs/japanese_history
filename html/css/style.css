@@ -1,0 +1,26 @@
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 500px; /* Set a desired height */
+  object-fit: cover;
+  object-position: center; /* Center the cropped area */
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%23ff0000' stroke-width='.5' viewBox='0 0 8 8'%3E%3Cpolyline points='5,2 3,4 5,6'/%3E%3C/svg%3E");
+  width: 60px; /* Adjust as needed */
+  height: 130px; /* Adjust as needed */
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%23ff0000' stroke-width='.5' viewBox='0 0 8 8'%3E%3Cpolyline points='3,2 5,4 3,6'/%3E%3C/svg%3E");
+  width: 60px; /* Adjust to match the previous icon */
+  height: 130px; /* Adjust to match the previous icon */
+}
+
+.card {
+  border: none !important; /* Removes all borders */
+}

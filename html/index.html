@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Home | Japan's History</title>
+  <meta name="description" content="A clean, responsive table of contents for a Japanese history blog, featuring eras from Jōmon to Reiwa and important figures like Prince Shōtoku and Oda Nobunaga." />
+  <meta name="keywords" content="Japanese history, Jōmon, Yayoi, Kofun, Asuka, Nara, Heian, Kamakura, Muromachi, Azuchi–Momoyama, Edo, Meiji, Taishō, Shōwa, Heisei, Reiwa, Prince Shōtoku, Oda Nobunaga, timeline" />
+  <link rel="canonical" href="https://example.com/" />
+
+  <!-- Open Graph / Twitter SEO -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Home | Japan's History" />
+  <meta property="og:description" content="Explore Japan’s past era by era with in‑depth posts and profiles of key figures." />
+  <meta property="og:image" content="./blog_posts/img/taiko_drum_tomoe.png" />
+  <meta property="og:url" content="https://example.com/" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+  <!-- External stylesheet -->
+  <link rel="stylesheet" href="./css/style.css" />
+
+  <!-- Structured data: basic Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Home","item":"https://example.com/"},
+      {"@type":"ListItem","position":2,"name":"Table of Contents","item":"https://example.com/toc.html"}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" aria-label="Primary Navigation">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center gap-2" href="./index.html">
+        <img src="./blog_posts/img/taiko_drum_tomoe.png" alt="Taiko drum with Tomoe" width="28" height="28" class="rounded" loading="lazy" />
+        <span>Japan's History</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarMain">
+        <ul class="navbar-nav ms-auto">
+          <!-- Home -->
+          <li class="nav-item"><a class="nav-link active" href="./index.html">Home</a></li>
+          <!-- Eras dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="erasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Periods</a>
+            <ul class="dropdown-menu" aria-labelledby="erasDropdown">
+              <li><a class="dropdown-item" href="./introduction_blog_post.html">Introduction</a></li>
+              <li><hr class="dropdown-divider" /></li>
+              <li><a class="dropdown-item" href="./blog_posts/jomon_blog_post.html">Jōmon (c. 14,500 BCE – c. 300 BCE)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/yayoi_blog_post.html">Yayoi (c. 300 BCE – c. 250 CE)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/kofun_blog_post.html">Kofun (c. 250 – 538)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/asuka_blog_post.html">Asuka (538 – 710)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/nara_blog_post.html">Nara (710 – 794)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/heian_blog_post.html">Heian (794 – 1185)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/kamakura_blog_post.html">Kamakura (1185 – 1333)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/muromachi_blog_post.html">Muromachi &amp; Sengoku (1336 – 1573)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/azuchi_blog_post.html">Azuchi–Momoyama (1568/1573 – 1600)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/edo_blog_post.html">Edo / Tokugawa (1600 – 1867)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/meiji_blog_post.html">Meiji (1868 – 1912)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/taisho_blog_post.html">Taishō (1912 – 1926)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/showa_blog_post.html">Early Shōwa &amp; WWII (1926 – 1945)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/postwar_showa_blog_post.html">Post‑war Shōwa (1945 – 1989)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/heisei_blog_post.html">Heisei (1989 – 2019)</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/reiwa_blog_post.html">Reiwa (2019 – present)</a></li>
+            </ul>
+          </li>
+
+          <!-- Important Figures dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="figuresDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Important Figures</a>
+            <ul class="dropdown-menu" aria-labelledby="figuresDropdown">
+              <li><a class="dropdown-item" href="./blog_posts/prince_shotoku_blog_post.html">Prince Shōtoku</a></li>
+              <li><a class="dropdown-item" href="./blog_posts/oda_nobunaga_blog_post.html">Oda Nobunaga</a></li>
+            </ul>
+          </li>
+
+          <!-- Contact -->
+          <li class="nav-item"><a class="nav-link" href="./contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header / Hero -->
+  <header class="bg-light border-bottom py-4">
+    <div class="container d-flex flex-column flex-md-row align-items-center gap-3">
+      <img src="./blog_posts/img/taiko_drum_tomoe.png" class="hero-img img-fluid" alt="Taiko drum with Tomoe" loading="lazy" width="360" height="220" />
+      <div>
+        <h1 class="display-6 mb-2">Japan's History</h1>
+        <p class="mb-0 text-secondary">Explore Japan’s past era by era with in‑depth posts and profiles of key figures.</p>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <div class="container my-5">
+    <!-- <h2 class="h4 mb-3">Posts</h2> -->
+    <div id="periodsCarousel" class="carousel slide column-md-4" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item justify-content-center active">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/jomon_pottery.png" class="card-img-top mx-auto" alt="Jōmon pottery">
+                <div class="card-body">
+                  <h5 class="card-title">Jōmon Period</h5>
+                  <p class="card-text">14,500 BCE - 300 BCE.</p>
+                  <p class="card-text">Japan's earliest known culture was the hunter-gatherer Jōmon people.  The name Jōmon means “cord-marked” and refers to the distinctive pottery patterns.  They lived in pit dwellings and relied on fishing, hunting and foraging.  Around 900 BCE rice farming was introduced, marking a gradual shift toward agriculture.  Population expanded and by 3,000 BCE there were possibly hundreds of thousands of people.</p>
+                  <a href="./blog_posts/jomon_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/yayoi_iron_tools.png" class="card-img-top mx-auto" alt="Yayoi period artifacts">
+                <div class="card-body">
+                  <h5 class="card-title">Yayoi Period</h5>
+                  <p class="card-text">300 BCE 250 CE.</p>
+                  <p class="card-text">The Yayoi period saw the introduction of wet-rice agriculture and metalworking.  Stone tools were gradually replaced by bronze and iron implements, irrigation techniques were developed and communal granaries appeared.  Populations grew and many settlements became large villages; the Asahi settlement covered about 200 acres.</p>
+                  <a href="./blog_posts/yayoi_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/kofun_clay_haniwa.png" class="card-img-top mx-auto" alt="Kofun burial mound">
+                <div class="card-body">
+                  <h5 class="card-title">Kofun Period</h5>
+                  <p class="card-text">250 CE - 538 CE.</p>
+                  <p class="card-text">Named after the kofun (large earthen burial mounds), this era marks the rise of the Yamato clan, who established control over central Japan and later formed the imperial lineage.  Shinto beliefs emerged and elaborate haniwa clay figures were placed around tombs.  New technologies—ironworking and improved irrigation—spread across the islands.</p>
+                  <a href="./blog_posts/kofun_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/asuka_prince_shotoku.png" class="card-img-top mx-auto" alt="Prince Shōtoku">
+                <div class="card-body">
+                  <h5 class="card-title">Asuka Period</h5>
+                  <p class="card-text">538 CE – 710 CE.</p>
+                  <p class="card-text">Increased interaction with Korea and China brought Buddhism and Chinese governmental models.  Empress Suiko reigned with her nephew Prince Shōtoku as regent; Shotoku promoted Buddhism and issued a “Seventeen‑Article Constitution” to guide government.  After Fujiwara no Kamatari launched a coup in 645, the Taika Reforms nationalised land and restructured administration along Chinese lines.  The period ended following the Jinshin Incident (671–672), when Emperor Tenmu purged rivals to secure succession.</p>
+                  <a href="./blog_posts/asuka_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/nara_giant_bronze_buddha.png" class="card-img-top mx-auto" alt="Giant Buddha">
+                <div class="card-body">
+                  <h5 class="card-title">Nara Period</h5>
+                  <p class="card-text">710 CE – 794 CE.</p>
+                  <p class="card-text">Empress Genmei moved the capital to Heijō‑kyō (Nara), Japan’s first permanent capital laid out in a Chinese‑style grid.  The court attempted greater central control, but heavy taxation, forced labour and primitive tools led to peasant hardship.  Smallpox epidemics (735–737) devastated the population, reducing it by 25–35 %.  Emperor Shōmu promoted Buddhism; he ordered provincial temples and built Tōdai‑ji, housing a massive Great Buddha statue.  Literary works including Kojiki (712), Nihon Shoki (720) and the Man’yōshū poetry collection (760) were compiled.</p>
+                  <a href="./blog_posts/nara_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/heian_kyoto_temple.png" class="card-img-top mx-auto" alt="Kyoto Temple">
+                <div class="card-body">
+                  <h5 class="card-title">Heian Period</h5>
+                  <p class="card-text">794 CE – 1185 CE.</p>
+                  <p class="card-text">The Heian Period is known for its art, especially poetry and literature. The capital was moved to Heian-kyō (modern Kyoto), and the period is often considered the peak of Japanese culture. The samurai class began to emerge, and the Fujiwara clan dominated the politics of the time.</p>
+                  <a href="./blog_posts/heian_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/kamakura_samurai_helmet.png" class="card-img-top mx-auto" alt="Samurai Helmet">
+                <div class="card-body">
+                  <h5 class="card-title">Kamakura Period</h5>
+                  <p class="card-text">1185 CE – 1333 CE.</p>
+                  <p class="card-text">After victory in the Genpei War, Minamoto no Yoritomo established the Kamakura shogunate (1192), making Kamakura the seat of military government.  Power gradually shifted to the Hōjō regents.  The law code Jōei Shikimoku (1232) codified warrior ethics.  Zen Buddhism (introduced by Eisai in 1191) and Nichiren Buddhism (founded by Nichiren in 1253) spread.  The shogunate repelled Mongol invasion attempts in 1274 and 1281; typhoons (“kamikaze”) destroyed the Mongol fleets.  Internal unrest and imperial restoration attempts led to the fall of the Kamakura government in 1333.</p>
+                  <a href="./blog_posts/kamakura_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item justify-content-center">
+          <div class="row">
+            <div class="column-md-4">
+              <div class="card">
+                <img src="./blog_posts/img/muromachi_tea_ceremony_set.png" class="card-img-top mx-auto" alt="Muromachi Period">
+                <div class="card-body">
+                  <h5 class="card-title">Muromachi (Ashikaga) Period & Sengoku Era</h5>
+                  <p class="card-text">1336 CE – 1573 CE.</p>
+                  <p class="card-text">The Muromachi Period is characterized by the rise of the Ashikaga shogunate and the flourishing of culture, including Noh theater and ink painting. The Sengoku Era, or "Warring States" period, saw the country fragmented into numerous feudal domains, leading to constant military conflict. This era ended with the unification of Japan under Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu.</p>
+                  <a href="./blog_posts/muromachi_blog_post.html" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>  
+      <button class="carousel-control-prev" type="button" data-bs-target="#periodsCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#periodsCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </div>
+  </main>
+
+  <footer class="footer mt-auto py-4">
+    <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
+      <small>© <span id="y"></span> Japan's History. All rights reserved.</small>
+      <small><a href="./contact.html" class="link-light">Contact</a></small>
+    </div>
+  </footer>
+
+  <!-- Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <script>
+    // current year in footer
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
