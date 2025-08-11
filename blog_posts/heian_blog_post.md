@@ -43,7 +43,7 @@ In the aftermath of Dan‑no‑ura, Minamoto no Yoritomo consolidated power.  Ra
 The Heian period remains a paradox.  It produced exquisite art, groundbreaking literature and architectural elegance.  Aristocrats lived in a dreamworld of poetry and perfume, perfecting the art of feeling.  The court refined Japanese into a written language of its own and nurtured religious syncretism that still characterises Japan today.  Yet this beauty coexisted with neglect: tax evasion, environmental degradation and the suffering of commoners.  The Fujiwara’s marriage politics led to stagnation, while their obsession with court etiquette blinded them to the rising power of provincial warriors.  When the samurai came for Kyoto, they found a court unprepared for war.
 Our journey from **Kofun tombs** through **Asuka reforms** to **Nara’s grand temples** and **Heian’s poetic salons** highlights one thread: Japan’s constant adaptation.  Each era borrowed from abroad, reinvented itself and then faced new challenges.  In Heian, the adaptation took the form of writing systems and literature; in Kamakura, it would manifest as warrior ethics and administrative reforms.  To truly appreciate the Heian period is to read **The Tale of Genji**, gaze upon a Heian scroll and sense both the twilight melancholy and the dawn of a new age.
 
-[Prev - nara Period](./nara_blog_post.md)
+[Prev - Nara Period](./nara_blog_post.md)
 
 [Next - Kamakura Period](./kamakura_blog_post.md)
 
