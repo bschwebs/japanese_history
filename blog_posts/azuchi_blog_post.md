@@ -1,11 +1,7 @@
 # From Warring States to Castles in the Sky: The Azuchi–Momoyama Period
-
 ![Samurai warrior](./img/azuchi_samurai_warrior.png)
-
 *Previously in our series…*  We left the Muromachi era with Kyoto in ashes, warlords squabbling like cats over a fish, and a country that had forgotten what a central government looked like.  The **Ōnin War** had shattered the Ashikaga shogunate and turned the capital into a charred memory.  Bands of warrior‑monks, league‑towns and independent daimyō carved up the land while the emperor wrote poetry in exile.  The period that followed was called **Sengoku** – the "Warring States" – and it was as chaotic and violent as it sounds.  But just when it seemed Japan would remain a mosaic of petty states forever, two men appeared who would unify the country, build splendid castles, and leave a legacy that still towers over Japanese culture.  Welcome to the **Azuchi–Momoyama period**.
-
 ## A Country in Pieces
-
 By the mid‑1500s, central control existed only on paper.  Power resided in the hands of daimyōs whose castles dotted the landscape, each fielding private armies and scheming for advantage.  In previous posts we have seen how Zen aesthetics, tea ceremonies and temple gardens flourished despite the carnage of the Muromachi years.  Now the battlefield moved from poetry circles to fortified slopes.  Farmers reinforced their houses with palisades; merchants took up arms alongside samurai; and warrior monks (sōhei) waged holy war from mountain monasteries.  Missionaries from Portugal and Spain brought muskets and Christianity, adding European gunpowder and theology to the mix.  Something had to give.
 ## Oda Nobunaga: A Lord Like No Other
 At the centre of the maelstrom strode **Oda Nobunaga**, a ruthless warlord with a love of innovation and a penchant for unconventional tactics.  Nobunaga came from Owari province (modern Aichi), a backwater by Kyoto standards.  Yet his ambition was boundless.  In 1568 he marched on Kyoto, installed a puppet shogun, and made himself the power behind the throne.  It was a breathtaking move – one that signalled to rival daimyōs that a new player had arrived.  Nobunaga’s rise is legendary and peppered with colourful anecdotes.  He reputedly tossed a bowl of rice at a visiting warlord for failing to address him properly, earning the nickname **"Owari’s Fool"**, but this fool was not to be trifled with.
@@ -33,6 +29,14 @@ The death of Hideyoshi created a power vacuum.  His council of regents could not
 ## Reflection: What Makes the Azuchi–Momoyama Period Unique?
 This era is short – roughly **1568 to 1600** – but its impact is outsized.  It is the story of two men with extraordinary drive who dragged Japan out of the Sengoku quagmire.  Nobunaga was the iconoclast who embraced firearms, crushed old power bases, and opened markets.  Hideyoshi was the consummate politician who used charisma, marriage alliances and diplomacy to finish the job while crafting a social order that lasted centuries.  Their policies – sword hunts, class stratification, land surveys – laid the groundwork for Tokugawa authority.  Yet there is more: the period’s castles still draw tourists; its art graces museums; its tea ceremony underpins Japanese hospitality.  The tragedy of temple massacres, persecution of Christians and Korean invasions reminds us that unification came with a heavy price.
 For our purposes, the Azuchi–Momoyama period is an essential chapter in Japan’s journey.  It ties the **Muromachi** era’s cultural innovations to the **Edo** period’s stability.  Without the audacity of Nobunaga and the determination of Hideyoshi, there would be no tranquil golden age under the Tokugawa.  Next time, we’ll step into that age of peace, isolation and ukiyo‑e prints to see how the shōgunate consolidated the world they inherited.
+
+[Prev - Kamakura Period](./kamakura_blog_post.md)
+
+[Next - Edo Period](./edo_blog_post.md)
+
+[Home](../toc.md)
+
+---
 ## Footnotes
 1. **Musket revolution and temple massacres** – Nobunaga’s adoption of arquebuses and his brutal attacks on Enryakuji and Ishiyama Hongan‑ji are documented in accounts of his campaign.
 2. **Hideyoshi’s building projects and ramparts** – Hideyoshi ordered the construction of Osaka Castle, rebuilt Himeji and Fushimi‑Momoyama Castles, and erected the Ōdoi defensive earthwork around Kyoto.
