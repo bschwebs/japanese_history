@@ -2,63 +2,229 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>showa_blog_post</title>
+<title>Showa Period | Japan's History</title>
+    <!-- Umami Analytics -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="92b82781-0478-4f5b-b1da-8da94162455c"></script>
+
+    <!--SEO-->
+    <meta name="description" content="A clean, responsive table of contents for a Japanese history blog, featuring eras from Jōmon to Reiwa and important figures like Prince Shōtoku and Oda Nobunaga." />
+    <meta name="keywords" content="Japanese history, Jōmon, Yayoi, Kofun, Asuka, Nara, Heian, Kamakura, Muromachi, Azuchi–Momoyama, Edo, Meiji, Taishō, Shōwa, Heisei, Reiwa, Prince Shōtoku, Oda Nobunaga, timeline" />
+    <link rel="canonical" href="https://japanshistory.com/" />
+
+    <!-- Open Graph / Twitter SEO -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Showa Period | Japan's History" />
+    <meta property="og:description" content="From Democracy to Desolation – A Riveting Tour Through Japan’s Early Shōwa Era" />
+    <meta property="og:image" content="./img/taiko_drum_tomoe.png" />
+    <meta property="og:url" content="https://japanshistory.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <!-- External stylesheet -->
+    <link rel="stylesheet" href="../css/style.css" />
+
+    <!-- Structured data: basic Breadcrumbs -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+        {"@type":"ListItem","position":1,"name":"Home","item":"https://japanshistory.com/"},
+        {"@type":"ListItem","position":2,"name":"Showa Period","item":"https://japanshistory.com/blog_posts/showa_blog_post.html"}
+        ]
+    }
+    </script>
 </head>
-<body><h1 id='from-democracy-to-desolation----a-riveting-tour-through-japans-early-shōwa-era'>From Democracy to Desolation – A Riveting Tour Through Japan’s Early Shōwa Era</h1>
-<p><img src="./img/showa_zero.png" referrerpolicy="no-referrer" alt="Zero">
-When we last left Japan in our Taishō adventure, jazz bars were humming, rice riots had paved the way for universal manhood suffrage, and political parties vied for power under a sickly emperor.  Yet beneath the bobbed haircuts and democratic ballots lurked an unease.  The <strong>Peace Preservation Law</strong> had already hinted that the state was uncomfortable with too much freedom.  As the 1920s drew to a close, economic calamity and nationalist fervor would sweep away the fragile “Taishō democracy” and usher in a darker, tragic chapter: the <strong>early Shōwa period</strong> (1926‑1945).  This blog post follows Japan from the death of Emperor Taishō through the rise of militarism, the conquest of Asia, and the calamity of World War II, all while tying back to the seeds sown in the preceding era.  Prepare for coups, conspiracies, communiqués and catastrophic wars – with a dash of humor to help digest the heavy history.</p>
-<h2 id='adieu-democracy-the-collapse-of-taishō-dreams'>Adieu Democracy: The Collapse of Taishō Dreams</h2>
-<p>On <strong>25 December 1926</strong>, the ailing Emperor Yoshihito passed away, and his eldest son <strong>Hirohito</strong> ascended the throne as <strong>Emperor Shōwa</strong>.  His reign name, meaning <strong>“bright peace,”</strong> would prove painfully ironic.  The political environment he inherited was already fraying.  The <strong>Great Depression</strong> obliterated world markets, sending Japanese exports like silk and rice plummeting by <strong>50 percent</strong> and pushing unemployment to record heights.  The prosperity of the Taishō boom vanished, replaced by factory closures and impoverished farmers.  As hardship spread, the left – socialists, communists, tenant unions – agitated for relief.  Conservatives responded by doubling down on <strong>kokutai</strong>, the state ideology that held the emperor and nation as sacred and indivisible.  In the battle between bread and emperor, the emperor was winning.
+<body>
+<!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" aria-label="Primary Navigation">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center gap-2" href="../index.html">
+            <img src="./img/taiko_drum_tomoe.png" alt="Taiko drum with Tomoe" width="28" height="28" class="rounded" loading="lazy" />
+            <span>Japan's History</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMain">
+            <ul class="navbar-nav ms-auto">
+            <!-- Home -->
+            <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+            <!-- Eras dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="erasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Periods</a>
+                <ul class="dropdown-menu" aria-labelledby="erasDropdown">
+                <li><a class="dropdown-item" href="../introduction_blog_post.html">Introduction</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="./jomon_blog_post.html">Jōmon (c. 14,500 BCE – c. 300 BCE)</a></li>
+                <li><a class="dropdown-item" href="./yayoi_blog_post.html">Yayoi (c. 300 BCE – c. 250 CE)</a></li>
+                <li><a class="dropdown-item" href="./kofun_blog_post.html">Kofun (c. 250 – 538)</a></li>
+                <li><a class="dropdown-item" href="./asuka_blog_post.html">Asuka (538 – 710)</a></li>
+                <li><a class="dropdown-item" href="./nara_blog_post.html">Nara (710 – 794)</a></li>
+                <li><a class="dropdown-item" href="./heian_blog_post.html">Heian (794 – 1185)</a></li>
+                <li><a class="dropdown-item" href="./kamakura_blog_post.html">Kamakura (1185 – 1333)</a></li>
+                <li><a class="dropdown-item" href="./muromachi_blog_post.html">Muromachi &amp; Sengoku (1336 – 1573)</a></li>
+                <li><a class="dropdown-item" href="./azuchi_blog_post.html">Azuchi–Momoyama (1568/1573 – 1600)</a></li>
+                <li><a class="dropdown-item" href="./edo_blog_post.html">Edo / Tokugawa (1600 – 1867)</a></li>
+                <li><a class="dropdown-item" href="./meiji_blog_post.html">Meiji (1868 – 1912)</a></li>
+                <li><a class="dropdown-item" href="./taisho_blog_post.html">Taishō (1912 – 1926)</a></li>
+                <li><a class="dropdown-item active" href="./showa_blog_post.html">Early Shōwa &amp; WWII (1926 – 1945)</a></li>
+                <li><a class="dropdown-item" href="./postwar_showa_blog_post.html">Post‑war Shōwa (1945 – 1989)</a></li>
+                <li><a class="dropdown-item" href="./heisei_blog_post.html">Heisei (1989 – 2019)</a></li>
+                <li><a class="dropdown-item" href="./reiwa_blog_post.html">Reiwa (2019 – present)</a></li>
+                </ul>
+            </li>
+
+            <!-- Important Figures dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="figuresDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Important Figures</a>
+                <ul class="dropdown-menu" aria-labelledby="figuresDropdown">
+                <li><a class="dropdown-item" href="./prince_shotoku_blog_post.html">Prince Shōtoku</a></li>
+                <li><a class="dropdown-item" href="./oda_nobunaga_blog_post.html">Oda Nobunaga</a></li>
+                </ul>
+            </li>
+
+            <!-- Contact -->
+            <li class="nav-item"><a class="nav-link" href="./contact.html">Contact</a></li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+    <!-- Header / Hero -->
+    <header class="bg-light border-bottom py-4">
+        <div class="container d-flex flex-column flex-md-row align-items-center gap-3">
+            <img src="./img/taiko_drum_tomoe.png" class="hero-img img-fluid" alt="Taiko drum with Tomoe" loading="lazy" width="360" height="220" />
+            <div>
+                <h1 class="display-6 mb-2">From Democracy to Desolation – A Riveting Tour Through Japan’s Early Shōwa Era</h1>
+                <p class="mb-0 text-secondary">The early Shōwa period (1926‑1945)</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container my-5">
+        <div class="card mb-2">
+            <div class="card-body">
+                <img class="card-img-top" src="./img/showa_zero.png" alt="Zero">
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <p class="card-text">When we last left Japan in our Taishō adventure, jazz bars were humming, rice riots had paved the way for universal manhood suffrage, and political parties vied for power under a sickly emperor.  Yet beneath the bobbed haircuts and democratic ballots lurked an unease.  The <strong>Peace Preservation Law</strong> had already hinted that the state was uncomfortable with too much freedom.  As the 1920s drew to a close, economic calamity and nationalist fervor would sweep away the fragile “Taishō democracy” and usher in a darker, tragic chapter: the <strong>early Shōwa period</strong> (1926‑1945).  This blog post follows Japan from the death of Emperor Taishō through the rise of militarism, the conquest of Asia, and the calamity of World War II, all while tying back to the seeds sown in the preceding era.  Prepare for coups, conspiracies, communiqués and catastrophic wars – with a dash of humor to help digest the heavy history.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Adieu Democracy: The Collapse of Taishō Dreams</h5>
+                <p class="card-text">On <strong>25 December 1926</strong>, the ailing Emperor Yoshihito passed away, and his eldest son <strong>Hirohito</strong> ascended the throne as <strong>Emperor Shōwa</strong>.  His reign name, meaning <strong>“bright peace,”</strong> would prove painfully ironic.  The political environment he inherited was already fraying.  The <strong>Great Depression</strong> obliterated world markets, sending Japanese exports like silk and rice plummeting by <strong>50 percent</strong> and pushing unemployment to record heights.  The prosperity of the Taishō boom vanished, replaced by factory closures and impoverished farmers.  As hardship spread, the left – socialists, communists, tenant unions – agitated for relief.  Conservatives responded by doubling down on <strong>kokutai</strong>, the state ideology that held the emperor and nation as sacred and indivisible.  In the battle between bread and emperor, the emperor was winning.
 The <strong>Peace Preservation Law</strong> of 1925 had already outlawed any movement seeking to change the political system or abolish private property.  By the late 1920s, thousands of activists were imprisoned.  Moderate politicians were increasingly targeted by extremists: <strong>Prime Minister Hamaguchi Osachi</strong> was shot by a nationalist in <strong>1930</strong> and later died from his wounds.  <strong>Hara Takashi</strong>, the commoner prime minister who symbolized Taishō democracy, had been assassinated back in 1921.  Politics by assassination became, as a foreign correspondent quipped, “a Japanese parliamentary procedure.”</p>
-<h2 id='how-to-build-an-ultranationalist----ingredients-and-recipes'>How to Build an Ultranationalist – Ingredients and Recipes</h2>
-<p>To understand the abrupt shift from democracy to dictatorship, we need to peek inside the ultranationalist kitchen.  The <strong>Shōwa period</strong> fused <strong>samurai ethics (<em>bushidō</em>)</strong>, <strong>emperor worship</strong>, and a simmering resentment toward Western interference.  New World Encyclopedia notes that ultranationalist ideology saw the <strong>ABCD powers</strong> (America, Britain, China, Dutch) as existential threats and argued that Japan could survive only through conquest.  Conservatives worried that rapid industrialization and Western fads (remember those moga from the Taishō period?) were eroding Japan’s “spirit.”  They romanticized the rustic, frugal warrior and demonized cosmopolitan urbanites.  Militarist societies like the <strong>Black Dragon Society</strong> and <strong>League of Blood</strong> recruited students, monks and even housewives, preaching that sacrifice for the emperor was the highest virtue.  In this atmosphere, moderate politicians appeared effete; generals seemed decisive.  The masses, battered by depression and hungry for leadership, listened.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">How to Build an Ultranationalist – Ingredients and Recipes</h5>
+                <p class="card-text">To understand the abrupt shift from democracy to dictatorship, we need to peek inside the ultranationalist kitchen.  The <strong>Shōwa period</strong> fused <strong>samurai ethics (<em>bushidō</em>)</strong>, <strong>emperor worship</strong>, and a simmering resentment toward Western interference.  New World Encyclopedia notes that ultranationalist ideology saw the <strong>ABCD powers</strong> (America, Britain, China, Dutch) as existential threats and argued that Japan could survive only through conquest.  Conservatives worried that rapid industrialization and Western fads (remember those moga from the Taishō period?) were eroding Japan’s “spirit.”  They romanticized the rustic, frugal warrior and demonized cosmopolitan urbanites.  Militarist societies like the <strong>Black Dragon Society</strong> and <strong>League of Blood</strong> recruited students, monks and even housewives, preaching that sacrifice for the emperor was the highest virtue.  In this atmosphere, moderate politicians appeared effete; generals seemed decisive.  The masses, battered by depression and hungry for leadership, listened.
 Resentment toward the West had concrete sources.  The <strong>Washington Naval Conference</strong> of 1921‑1922 limited Japan’s battleships and carriers to <strong>60 percent</strong> of the tonnage allotted to the United States and Britain (a 5:5:3 ratio).  Many Japanese viewed this as an insult.  The <strong>U.S. Immigration Act of 1924</strong>, which banned Japanese immigration, further fueled xenophobia.  Already angry about the rejection of Japan’s racial equality clause at the 1919 Paris Peace Conference, nationalists concluded that the West would never treat Japan as an equal partner.  Better to carve out an empire than beg at European tables.</p>
-<h2 id='economic-freefall----the-showa-depression'>Economic Freefall – The Showa Depression</h2>
-<p>The global economic collapse hit Japan like a tsunami.  Silk exports, the lifeblood of rural households, collapsed; farmers who had borrowed to buy fertilizer and equipment now faced foreclosures.  Urban unemployment bred protests and violent strikes.  The government attempted austerity to maintain the gold standard, but deflation only made things worse.  By <strong>1932</strong>, rice and silk prices had bottomed out; exports had halved; and hunger was widespread.  Extremist movements gained traction because they promised tangible solutions: land reform, military expansion to secure resources, and destruction of corrupt party politics.  Democracy seemed ineffective in the face of crisis.</p>
-<h2 id='murder-she-wrote----the-politics-of-assassination'>Murder, She Wrote – The Politics of Assassination</h2>
-<p>As the economy spiraled, Japan entered a bizarre period where <strong>assassins wrote policy</strong>.  Ultranationalist cells plotted to “purify” the nation by killing “corrupt” politicians and businessmen.  In <strong>1932</strong>, the <strong>League of Blood Incident</strong> saw a group of radicals murder the head of Mitsui and ex-minister Takuma; their goal was to assassinate twenty wealthy elites.  That May, junior navy officers invaded Prime Minister <strong>Inukai Tsuyoshi’s</strong> residence and shot him dead in the <strong>May 15 Incident</strong>.  The perpetrators were given light sentences, treated almost as misguided patriots.  The message was clear: bullets now had more influence than ballots.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Economic Freefall – The Showa Depression</h5>
+                <p class="card-text">The global economic collapse hit Japan like a tsunami.  Silk exports, the lifeblood of rural households, collapsed; farmers who had borrowed to buy fertilizer and equipment now faced foreclosures.  Urban unemployment bred protests and violent strikes.  The government attempted austerity to maintain the gold standard, but deflation only made things worse.  By <strong>1932</strong>, rice and silk prices had bottomed out; exports had halved; and hunger was widespread.  Extremist movements gained traction because they promised tangible solutions: land reform, military expansion to secure resources, and destruction of corrupt party politics.  Democracy seemed ineffective in the face of crisis.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Murder, She Wrote – The Politics of Assassination</h5>
+                <p class="card-text">As the economy spiraled, Japan entered a bizarre period where <strong>assassins wrote policy</strong>.  Ultranationalist cells plotted to “purify” the nation by killing “corrupt” politicians and businessmen.  In <strong>1932</strong>, the <strong>League of Blood Incident</strong> saw a group of radicals murder the head of Mitsui and ex-minister Takuma; their goal was to assassinate twenty wealthy elites.  That May, junior navy officers invaded Prime Minister <strong>Inukai Tsuyoshi’s</strong> residence and shot him dead in the <strong>May 15 Incident</strong>.  The perpetrators were given light sentences, treated almost as misguided patriots.  The message was clear: bullets now had more influence than ballots.
 The climax came on <strong>February 26, 1936</strong>, when about <strong>1,500 ultranationalist army troops</strong> occupied central Tokyo, killed several officials and demanded a <strong>“Shōwa Restoration”</strong> – a return to direct imperial rule.  For three tense days, tanks and machine guns blocked the streets while radio broadcasts kept the populace guessing.  The coup failed only after Emperor Hirohito personally ordered loyal troops to suppress the rebels.  Although the plotters were executed, the incident demonstrated that the military had become Japan’s ultimate political arbiter.  Civilian government never recovered its authority.</p>
-<h2 id='false-flags-and-puppet-states----the-manchurian-adventure'>False Flags and Puppet States – The Manchurian Adventure</h2>
-<p>The ultranationalists’ dream of empire needed a proving ground.  In <strong>September 1931</strong>, officers of the <strong>Kwantung Army</strong> blew up a section of railway near <strong>Mukden</strong> (Shenyang) in China’s Manchuria and blamed Chinese “saboteurs.”  New World Encyclopedia explains that the army used the explosion as a pretext to <strong>invade Manchuria</strong>, quickly seizing control while the civilian cabinet protested ineffectively.  Within months, the Kwantung Army had conquered the region and established the puppet state of <strong>Manchukuo</strong>.  When the League of Nations condemned the invasion, Japan simply <strong>withdrew from the League</strong>, signaling its rejection of the international order.  The Mukden Incident illustrated how the military operated independently of the government.  It also showed how a false flag operation could justify aggression – a tactic that would return in 1937.</p>
-<h2 id='an-empire-on-the-march----the-second-sinojapanese-war'>An Empire on the March – The Second Sino‑Japanese War</h2>
-<p>Emboldened by success in Manchuria, Japan’s army looked south.  On <strong>July 7, 1937</strong>, shots were fired near the <strong>Marco Polo Bridge</strong> outside Beijing.  The army claimed Chinese forces had attacked and used this as a casus belli to launch a full‑scale invasion.  Within weeks, the Japanese captured <strong>Beijing</strong> and soon pushed down the major railway lines, occupying coastal cities and advancing toward the Chinese capital <strong>Nanjing</strong>.  According to New World Encyclopedia, Japanese troops committed <strong>war atrocities</strong> during the capture of Nanjing, resulting in a massacre of civilians and prisoners.  Scholars debate the death toll, but New World Encyclopedia notes that most estimates place it between <strong>150,000 and 300,000</strong> people.  Known as the <strong>Nanjing Massacre</strong> or “Rape of Nanking,” this six‑week orgy of slaughter and rape shocked the international community and stands as one of the darkest chapters in modern history.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">False Flags and Puppet States – The Manchurian Adventure</h5>
+                <p class="card-text">The ultranationalists’ dream of empire needed a proving ground.  In <strong>September 1931</strong>, officers of the <strong>Kwantung Army</strong> blew up a section of railway near <strong>Mukden</strong> (Shenyang) in China’s Manchuria and blamed Chinese “saboteurs.”  New World Encyclopedia explains that the army used the explosion as a pretext to <strong>invade Manchuria</strong>, quickly seizing control while the civilian cabinet protested ineffectively.  Within months, the Kwantung Army had conquered the region and established the puppet state of <strong>Manchukuo</strong>.  When the League of Nations condemned the invasion, Japan simply <strong>withdrew from the League</strong>, signaling its rejection of the international order.  The Mukden Incident illustrated how the military operated independently of the government.  It also showed how a false flag operation could justify aggression – a tactic that would return in 1937.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">An Empire on the March – The Second Sino‑Japanese War</h5>
+                <p class="card-text">Emboldened by success in Manchuria, Japan’s army looked south.  On <strong>July 7, 1937</strong>, shots were fired near the <strong>Marco Polo Bridge</strong> outside Beijing.  The army claimed Chinese forces had attacked and used this as a casus belli to launch a full‑scale invasion.  Within weeks, the Japanese captured <strong>Beijing</strong> and soon pushed down the major railway lines, occupying coastal cities and advancing toward the Chinese capital <strong>Nanjing</strong>.  According to New World Encyclopedia, Japanese troops committed <strong>war atrocities</strong> during the capture of Nanjing, resulting in a massacre of civilians and prisoners.  Scholars debate the death toll, but New World Encyclopedia notes that most estimates place it between <strong>150,000 and 300,000</strong> people.  Known as the <strong>Nanjing Massacre</strong> or “Rape of Nanking,” this six‑week orgy of slaughter and rape shocked the international community and stands as one of the darkest chapters in modern history.
 The war bogged down despite early victories.  The Chinese Nationalists retreated inland, while guerrillas harassed supply lines.  Japan’s resources strained, but its leaders believed that victory required total commitment.  The conflict soon merged into World War II, with catastrophic consequences.</p>
-<h2 id='towards-global-conflagration----alliances-and-oil-embargoes'>Towards Global Conflagration – Alliances and Oil Embargoes</h2>
-<p>As the Sino‑Japanese war consumed resources, Japan sought allies and raw materials.  In <strong>1940</strong>, Japan joined <strong>Germany and Italy</strong> in the <strong>Tripartite Pact</strong>, creating the <strong>Rome–Tokyo–Berlin Axis</strong>.  That same year, Japanese troops occupied <strong>French Indochina</strong>, exploiting France’s weakness after its defeat by Germany.  The United States and Britain responded with an <strong>oil embargo</strong>.  Lacking domestic petroleum, Japan faced an existential crisis: its war machine would grind to a halt within months.  Rather than withdraw from China, Japanese leaders chose a gamble: seize the oil‑rich <strong>Dutch East Indies</strong> (Indonesia) and knock out the U.S. Pacific Fleet with a surprise attack.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Towards Global Conflagration – Alliances and Oil Embargoes</h5>
+                <p class="card-text">As the Sino‑Japanese war consumed resources, Japan sought allies and raw materials.  In <strong>1940</strong>, Japan joined <strong>Germany and Italy</strong> in the <strong>Tripartite Pact</strong>, creating the <strong>Rome–Tokyo–Berlin Axis</strong>.  That same year, Japanese troops occupied <strong>French Indochina</strong>, exploiting France’s weakness after its defeat by Germany.  The United States and Britain responded with an <strong>oil embargo</strong>.  Lacking domestic petroleum, Japan faced an existential crisis: its war machine would grind to a halt within months.  Rather than withdraw from China, Japanese leaders chose a gamble: seize the oil‑rich <strong>Dutch East Indies</strong> (Indonesia) and knock out the U.S. Pacific Fleet with a surprise attack.
 On <strong>December 7, 1941</strong>, carrier-based aircraft struck <strong>Pearl Harbor</strong>, Hawaii, crippling the U.S. battleship fleet.  The attack was part of a broader offensive that overran Hong Kong, the Philippines, Malaya and Burma within months.  For a brief moment, Japanese forces seemed unstoppable.  But the tide turned at <strong>Midway</strong> in June 1942.  American industry and code‑breaking prowess reversed Japanese advances.  The long, bloody fight across the Pacific would eventually devastate Japan.</p>
-<h2 id='fire-and-fury----hiroshima-nagasaki-and-total-defeat'>Fire and Fury – Hiroshima, Nagasaki and Total Defeat</h2>
-<p>As defeat loomed, Japanese cities faced relentless air raids.  <strong>Tokyo</strong> was firebombed in March 1945, causing about 100,000 deaths in a single night.  But nothing compared to the new weapon unveiled in August.  On <strong>August 6, 1945</strong>, an American B‑29 dropped an atomic bomb over <strong>Hiroshima</strong>, killing an estimated <strong>140,000 people</strong> by the end of the year, according to the International Campaign to Abolish Nuclear Weapons (ICAN).  Three days later, a second bomb destroyed <strong>Nagasaki</strong>, killing around <strong>74,000</strong>.  At the same time, the Soviet Union invaded Manchuria.  Facing annihilation, Emperor Hirohito announced Japan’s surrender on <strong>August 15, 1945</strong>.  The war was over; the early Shōwa militarist experiment lay in ruins.</p>
-<h2 id='the-aftermath----occupation-and-reckoning'>The Aftermath – Occupation and Reckoning</h2>
-<p>Japan’s defeat resulted in an unprecedented <strong>seven‑year Allied occupation</strong>.  Under General <strong>Douglas MacArthur</strong>, the country was demilitarized, democratic reforms were enacted and women gained the right to vote.  Article 9 of the new constitution renounced war.  War crimes trials prosecuted military and political leaders, although Emperor Hirohito retained his throne as a symbolic monarch.  The occupation dismantled some <strong>zaibatsu</strong> conglomerates, encouraged unionization and laid the groundwork for the postwar economic miracle.  But that is a story for another blog post.  The early Shōwa era, with its tragic arc from democracy to desolation, leaves profound lessons about the fragility of freedoms and the dangers of unchecked nationalism.</p>
-<h2 id='bridging-from-taishō-to-shōwa----reflections-and-humor'>Bridging from Taishō to Shōwa – Reflections and Humor</h2>
-<p>In our Taishō chapter we saw Japan flirt with democracy, feminism and jazz.  Now we’ve watched that flirtation curdle into militarism, war and nuclear devastation.  The continuity is striking: the <strong>Peace Preservation Law</strong> that silenced socialists in 1925 became the tool to suppress all dissent in the 1930s.  The <strong>Washington Naval Treaty</strong> ratio that seemed an insult paved the way for resentment.  The <strong>rice riots</strong> that proved the people’s power inadvertently taught militarists that violence works.  Democracy’s failure to ease economic pain allowed generals to step in.  The moga’s bobbed hair became the soldier’s buzz cut.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Fire and Fury – Hiroshima, Nagasaki and Total Defeat</h5>
+                <p class="card-text">As defeat loomed, Japanese cities faced relentless air raids.  <strong>Tokyo</strong> was firebombed in March 1945, causing about 100,000 deaths in a single night.  But nothing compared to the new weapon unveiled in August.  On <strong>August 6, 1945</strong>, an American B‑29 dropped an atomic bomb over <strong>Hiroshima</strong>, killing an estimated <strong>140,000 people</strong> by the end of the year, according to the International Campaign to Abolish Nuclear Weapons (ICAN).  Three days later, a second bomb destroyed <strong>Nagasaki</strong>, killing around <strong>74,000</strong>.  At the same time, the Soviet Union invaded Manchuria.  Facing annihilation, Emperor Hirohito announced Japan’s surrender on <strong>August 15, 1945</strong>.  The war was over; the early Shōwa militarist experiment lay in ruins.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">The Aftermath – Occupation and Reckoning</h5>
+                <p class="card-text">Japan’s defeat resulted in an unprecedented <strong>seven‑year Allied occupation</strong>.  Under General <strong>Douglas MacArthur</strong>, the country was demilitarized, democratic reforms were enacted and women gained the right to vote.  Article 9 of the new constitution renounced war.  War crimes trials prosecuted military and political leaders, although Emperor Hirohito retained his throne as a symbolic monarch.  The occupation dismantled some <strong>zaibatsu</strong> conglomerates, encouraged unionization and laid the groundwork for the postwar economic miracle.  But that is a story for another blog post.  The early Shōwa era, with its tragic arc from democracy to desolation, leaves profound lessons about the fragility of freedoms and the dangers of unchecked nationalism.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Bridging from Taishō to Shōwa – Reflections and Humor</h5>
+                <p class="card-text">In our Taishō chapter we saw Japan flirt with democracy, feminism and jazz.  Now we’ve watched that flirtation curdle into militarism, war and nuclear devastation.  The continuity is striking: the <strong>Peace Preservation Law</strong> that silenced socialists in 1925 became the tool to suppress all dissent in the 1930s.  The <strong>Washington Naval Treaty</strong> ratio that seemed an insult paved the way for resentment.  The <strong>rice riots</strong> that proved the people’s power inadvertently taught militarists that violence works.  Democracy’s failure to ease economic pain allowed generals to step in.  The moga’s bobbed hair became the soldier’s buzz cut.
 Amid these bleak themes, humor still flickered in Japanese society.  Satirists dubbed the March of 1932 “the March of Folly,” while popular songs mocked politicians who “changed cabinets more often than kimonos.”  When the navy attacked Pearl Harbor, one wag quipped that Japan had taken on “America, Britain, China and one Dutchman, and forgotten to invite their own parliament.”  Underground cartoonists drew samurai riding horses backward into battle.  Even in dark times, laughter remained a subversive act.
 The early Shōwa period reminds us that modernization is not linear.  Democracies can crumble.  National pride can turn toxic.  And yet, from the ruins of 1945 would rise a resilient, peaceful nation.  In our next installment, we will explore how Japan emerged from occupation to become an economic powerhouse.  But for now, we end our tale with the wisdom that peace and democracy must be nurtured – lest they vanish as quickly as a jazz melody fading into wartime silence.</p>
-<p><a href='./taishi_blog_post.html'>Prev - Taisho Period</a></p>
-<p><a href='./postwar_showa_blog_post.html'>Next - Post War Showa Period</a></p>
-<p><a href='../toc.html'>Home</a></p>
-<h3 id='footnotes'>Footnotes</h3>
-<ol start='' >
-<li>Japan’s exports collapsed during the Great Depression, with prices of silk and rice dropping by half, causing widespread unemployment and social agitation.</li>
-<li>Ultranationalist ideology combined samurai ethics, emperor worship and xenophobia; it warned that the ABCD powers threatened Japan and that war was the solution.</li>
-<li>The Washington Naval Conference limited Japanese naval armament to a 5:5:3 ratio compared to Britain and the United States, a source of nationalist resentment.</li>
-<li>The U.S. Immigration Act of 1924 banned Japanese immigration, worsening anti‑Western sentiment.</li>
-<li>Economic hardship and ultranationalist propaganda led to assassinations of politicians: Prime Minister Hamaguchi Osachi was killed by a nationalist in 1930; Prime Minister Inukai Tsuyoshi was assassinated during the May 15 Incident in 1932.</li>
-<li>The February 26, 1936 Incident saw about 1,500 ultranationalist soldiers occupy Tokyo and demand a “Shōwa Restoration”; Emperor Hirohito personally ordered its suppression.</li>
-<li>In September 1931 the Kwantung Army staged an explosion near Mukden as a pretext to invade Manchuria; it conquered the region and established the puppet state Manchukuo, prompting Japan’s withdrawal from the League of Nations.</li>
-<li>The Second Sino‑Japanese War began with the Marco Polo Bridge Incident in July 1937; Japanese forces captured Beijing and advanced along railway lines, committing atrocities such as the Nanjing Massacre.  The massacre’s death toll is estimated between 150,000 and 300,000.</li>
-<li>Japan joined Germany and Italy in the Tripartite Pact in 1940 and occupied French Indochina; subsequent oil embargoes pushed Japan toward war in the Pacific.</li>
-<li>Atomic bombs dropped on Hiroshima and Nagasaki in August 1945 killed approximately 140,000 and 74,000 people respectively.</li>
-<li>After the war, Allied forces occupied Japan for seven years, enacted democratic reforms and demilitarized the nation.</li>
+            </div>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <a class="btn btn-secondary" type="button" href="./taisho_blog_post.html">Prev.</a>
+            <a class="btn btn-secondary" type="button" href='../index.html'>Home</a>
+            <a class="btn btn-secondary" type="button" href='./postwar_showa_blog_post.html'>Next</a>
+        </div>
+        <hr />
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">References</h5>
+                <ol>
+                    <li>Japan’s exports collapsed during the Great Depression, with prices of silk and rice dropping by half, causing widespread unemployment and social agitation.</li>
+                    <li>Ultranationalist ideology combined samurai ethics, emperor worship and xenophobia; it warned that the ABCD powers threatened Japan and that war was the solution.</li>
+                    <li>The Washington Naval Conference limited Japanese naval armament to a 5:5:3 ratio compared to Britain and the United States, a source of nationalist resentment.</li>
+                    <li>The U.S. Immigration Act of 1924 banned Japanese immigration, worsening anti‑Western sentiment.</li>
+                    <li>Economic hardship and ultranationalist propaganda led to assassinations of politicians: Prime Minister Hamaguchi Osachi was killed by a nationalist in 1930; Prime Minister Inukai Tsuyoshi was assassinated during the May 15 Incident in 1932.</li>
+                    <li>The February 26, 1936 Incident saw about 1,500 ultranationalist soldiers occupy Tokyo and demand a “Shōwa Restoration”; Emperor Hirohito personally ordered its suppression.</li>
+                    <li>In September 1931 the Kwantung Army staged an explosion near Mukden as a pretext to invade Manchuria; it conquered the region and established the puppet state Manchukuo, prompting Japan’s withdrawal from the League of Nations.</li>
+                    <li>The Second Sino‑Japanese War began with the Marco Polo Bridge Incident in July 1937; Japanese forces captured Beijing and advanced along railway lines, committing atrocities such as the Nanjing Massacre.  The massacre’s death toll is estimated between 150,000 and 300,000.</li>
+                    <li>Japan joined Germany and Italy in the Tripartite Pact in 1940 and occupied French Indochina; subsequent oil embargoes pushed Japan toward war in the Pacific.</li>
+                    <li>Atomic bombs dropped on Hiroshima and Nagasaki in August 1945 killed approximately 140,000 and 74,000 people respectively.</li>
+                    <li>After the war, Allied forces occupied Japan for seven years, enacted democratic reforms and demilitarized the nation.</li>
+                    <li>“Shōwa period.” <strong>New World Encyclopedia</strong>. This article provides details on Japan’s political transition, ultranationalist ideology, the Washington Naval Treaty, the Great Depression’s impact, political assassinations, the Mukden Incident, the Second Sino‑Japanese War, and the early Shōwa military state.</li>
+                    <li>“Nanjing Massacre.” <strong>New World Encyclopedia</strong>. Gives background on the massacre and notes that mainstream estimates of the death toll range between 150,000 and 300,000.</li>
+                    <li><strong>International Campaign to Abolish Nuclear Weapons (ICAN)</strong>. Reports that by the end of 1945 the atomic bombings killed approximately 140,000 people in Hiroshima and 74,000 in Nagasaki.</li>
+                    <li><strong>Japan Experience</strong> — <em>Taishō &amp; Early Shōwa Japan History</em>. Provides context on the Peace Preservation Law, Amakasu Incident, and lingering Taishō cultural trends leading into the Shōwa period.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <footer class="footer mt-auto py-4">
+        <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
+        <small>© <span id="y"></span> Japan's History. - Brandon Schwebs.  All rights reserved.</small>
+        <small><a href="../contact.html" class="link-light">Contact</a></small>
+        </div>
+    </footer>
 
-</ol>
-<h3 id='references'>References</h3>
-<ul>
-<li>“Shōwa period.” <strong>New World Encyclopedia</strong>. This article provides details on Japan’s political transition, ultranationalist ideology, the Washington Naval Treaty, the Great Depression’s impact, political assassinations, the Mukden Incident, the Second Sino‑Japanese War, and the early Shōwa military state.</li>
-<li>“Nanjing Massacre.” <strong>New World Encyclopedia</strong>. Gives background on the massacre and notes that mainstream estimates of the death toll range between 150,000 and 300,000.</li>
-<li><strong>International Campaign to Abolish Nuclear Weapons (ICAN)</strong>. Reports that by the end of 1945 the atomic bombings killed approximately 140,000 people in Hiroshima and 74,000 in Nagasaki.</li>
-<li><strong>Japan Experience</strong> — <em>Taishō &amp; Early Shōwa Japan History</em>. Provides context on the Peace Preservation Law, Amakasu Incident, and lingering Taishō cultural trends leading into the Shōwa period.</li>
-
-</ul>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script>
+        // current year in footer
+        document.getElementById('y').textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>
