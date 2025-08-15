@@ -2,60 +2,229 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>postwar_showa_blog_post</title>
+<title>Post-War Showa Period | Japan's History</title>
+    <!-- Umami Analytics -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="92b82781-0478-4f5b-b1da-8da94162455c"></script>
+
+    <!--SEO-->
+    <meta name="description" content="A clean, responsive table of contents for a Japanese history blog, featuring eras from Jōmon to Reiwa and important figures like Prince Shōtoku and Oda Nobunaga." />
+    <meta name="keywords" content="Japanese history, Jōmon, Yayoi, Kofun, Asuka, Nara, Heian, Kamakura, Muromachi, Azuchi–Momoyama, Edo, Meiji, Taishō, Shōwa, Heisei, Reiwa, Prince Shōtoku, Oda Nobunaga, timeline" />
+    <link rel="canonical" href="https://japanshistory.com/" />
+
+    <!-- Open Graph / Twitter SEO -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Post-War Showa Period | Japan's History" />
+    <meta property="og:description" content="From Ashes to Economic Miracle: Japan’s Post‑War Showa Story (1945‑1989)" />
+    <meta property="og:image" content="./img/taiko_drum_tomoe.png" />
+    <meta property="og:url" content="https://japanshistory.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <!-- External stylesheet -->
+    <link rel="stylesheet" href="../css/style.css" />
+
+    <!-- Structured data: basic Breadcrumbs -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+        {"@type":"ListItem","position":1,"name":"Home","item":"https://japanshistory.com/"},
+        {"@type":"ListItem","position":2,"name":"Post-War Showa Period","item":"https://japanshistory.com/blog_posts/postwar_showa_blog_post.html"}
+        ]
+    }
+    </script>
 </head>
-<body><h1 id='from-ashes-to-economic-miracle-japans-postwar-showa-story-19451989'>From Ashes to Economic Miracle: Japan’s Post‑War Showa Story (1945‑1989)</h1>
-<p><img src="./img/postwar_showa_honda_pickup.png" referrerpolicy="no-referrer" alt="Honda pickup">
-When we last left Japan in our early Shōwa blog post, the nation was battered and bewildered.  <strong>War‑weary citizens</strong>, cities reduced to <em>smoldering rubble</em>, and the Emperor proclaiming surrender to an Allied fleet of radio broadcasters set the stage for an era that would be as transformative as any in Japanese history.  What follows is the roller‑coaster ride of the <strong>post‑war Shōwa period</strong>—a story of occupation, reform, high‑octane economic growth, social upheaval, and tragedy.  Think of it as Japan’s real‑life phoenix narrative, with a few unexpected plot twists and a lot of rebuilding.  Grab some tea, perhaps a sake (cold war pun intended), and let’s pick up the thread from the moment the war ended.</p>
-<h2 id='picking-up-the-pieces-occupation-and-reform'>Picking Up the Pieces: Occupation and Reform</h2>
-<p>World War II left Japan devastated.  Allied bombing had annihilated most major cities (Kyoto was miraculously spared), industries lay in ruins, and the transportation network was in tatters.  Food shortages persisted for years, and millions returned to a countryside that could barely feed them.  To make matters worse, the empire built through decades of war evaporated overnight: <strong>all territories acquired after 1894 were relinquished</strong>, the Kuril Islands were occupied by the Soviet Union, and the Ryukyu Islands (including Okinawa) fell under U.S. control.  Over 500 military officers committed suicide upon surrender, and hundreds more were executed for war crimes.  Emperor Hirohito (Shōwa) was not indicted, but he became a mere symbol of the state under the new order.</p>
-<h3 id='scap-macarthur-and-the-new-constitution'>SCAP, MacArthur and the New Constitution</h3>
-<p>In August 1945, Allied forces—mainly the United States—moved in.  General <strong>Douglas MacArthur</strong> arrived as the Supreme Commander for the Allied Powers (SCAP) and effectively ruled Japan.  He oversaw a sweeping occupation from 1945 to 1952.  The initial goals were ambitious: <strong>demilitarize and democratize</strong> the nation.  The occupation authorities dissolved the Imperial Army and Navy, introduced civil‑rights protections, passed a new Trade Union Law that guaranteed workers’ right to organize, and launched radical <strong>land reforms</strong> that broke the hold of landlord elites.  They purged more than 200,000 wartime leaders and ultranationalists from office.  These reforms gave women unprecedented rights, remade Japan’s criminal and civil codes, and decentralized governance.
+<body>
+<!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" aria-label="Primary Navigation">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center gap-2" href="../index.html">
+            <img src="./img/taiko_drum_tomoe.png" alt="Taiko drum with Tomoe" width="28" height="28" class="rounded" loading="lazy" />
+            <span>Japan's History</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarMain">
+            <ul class="navbar-nav ms-auto">
+            <!-- Home -->
+            <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+            <!-- Eras dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="erasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Periods</a>
+                <ul class="dropdown-menu" aria-labelledby="erasDropdown">
+                <li><a class="dropdown-item" href="../introduction_blog_post.html">Introduction</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="./jomon_blog_post.html">Jōmon (c. 14,500 BCE – c. 300 BCE)</a></li>
+                <li><a class="dropdown-item" href="./yayoi_blog_post.html">Yayoi (c. 300 BCE – c. 250 CE)</a></li>
+                <li><a class="dropdown-item" href="./kofun_blog_post.html">Kofun (c. 250 – 538)</a></li>
+                <li><a class="dropdown-item" href="./asuka_blog_post.html">Asuka (538 – 710)</a></li>
+                <li><a class="dropdown-item" href="./nara_blog_post.html">Nara (710 – 794)</a></li>
+                <li><a class="dropdown-item" href="./heian_blog_post.html">Heian (794 – 1185)</a></li>
+                <li><a class="dropdown-item" href="./kamakura_blog_post.html">Kamakura (1185 – 1333)</a></li>
+                <li><a class="dropdown-item" href="./muromachi_blog_post.html">Muromachi &amp; Sengoku (1336 – 1573)</a></li>
+                <li><a class="dropdown-item" href="./azuchi_blog_post.html">Azuchi–Momoyama (1568/1573 – 1600)</a></li>
+                <li><a class="dropdown-item" href="./edo_blog_post.html">Edo / Tokugawa (1600 – 1867)</a></li>
+                <li><a class="dropdown-item" href="./meiji_blog_post.html">Meiji (1868 – 1912)</a></li>
+                <li><a class="dropdown-item" href="./taisho_blog_post.html">Taishō (1912 – 1926)</a></li>
+                <li><a class="dropdown-item" href="./showa_blog_post.html">Early Shōwa &amp; WWII (1926 – 1945)</a></li>
+                <li><a class="dropdown-item active" href="./postwar_showa_blog_post.html">Post‑war Shōwa (1945 – 1989)</a></li>
+                <li><a class="dropdown-item" href="./heisei_blog_post.html">Heisei (1989 – 2019)</a></li>
+                <li><a class="dropdown-item" href="./reiwa_blog_post.html">Reiwa (2019 – present)</a></li>
+                </ul>
+            </li>
+
+            <!-- Important Figures dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="figuresDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Important Figures</a>
+                <ul class="dropdown-menu" aria-labelledby="figuresDropdown">
+                <li><a class="dropdown-item" href="./prince_shotoku_blog_post.html">Prince Shōtoku</a></li>
+                <li><a class="dropdown-item" href="./oda_nobunaga_blog_post.html">Oda Nobunaga</a></li>
+                </ul>
+            </li>
+
+            <!-- Contact -->
+            <li class="nav-item"><a class="nav-link" href="../contact.html">Contact</a></li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+    <!-- Header / Hero -->
+    <header class="bg-light border-bottom py-4">
+        <div class="container d-flex flex-column flex-md-row align-items-center gap-3">
+            <img src="./img/taiko_drum_tomoe.png" class="hero-img img-fluid" alt="Taiko drum with Tomoe" loading="lazy" width="360" height="220" />
+            <div>
+                <h1 class="display-6 mb-2">From Ashes to Economic Miracle: Japan’s Post‑War Showa Story (1945‑1989)</h1>
+                <p class="mb-0 text-secondary">A story of occupation, reform, high‑octane economic growth, social upheaval, and tragedy</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container my-5">
+        <div class="card mb-2">
+            <div class="card-body">
+                <img class="card-img-top" src="./img/postwar_showa_honda_pickup.png" alt="Honda pickup">
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <p class="card-text">When we last left Japan in our early Shōwa blog post, the nation was battered and bewildered.  <strong>War‑weary citizens</strong>, cities reduced to <em>smoldering rubble</em>, and the Emperor proclaiming surrender to an Allied fleet of radio broadcasters set the stage for an era that would be as transformative as any in Japanese history.  What follows is the roller‑coaster ride of the <strong>post‑war Shōwa period</strong>—a story of occupation, reform, high‑octane economic growth, social upheaval, and tragedy.  Think of it as Japan’s real‑life phoenix narrative, with a few unexpected plot twists and a lot of rebuilding.  Grab some tea, perhaps a sake (cold war pun intended), and let’s pick up the thread from the moment the war ended.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Picking Up the Pieces: Occupation and Reform</h5>
+                <p class="card-text">World War II left Japan devastated.  Allied bombing had annihilated most major cities (Kyoto was miraculously spared), industries lay in ruins, and the transportation network was in tatters.  Food shortages persisted for years, and millions returned to a countryside that could barely feed them.  To make matters worse, the empire built through decades of war evaporated overnight: <strong>all territories acquired after 1894 were relinquished</strong>, the Kuril Islands were occupied by the Soviet Union, and the Ryukyu Islands (including Okinawa) fell under U.S. control.  Over 500 military officers committed suicide upon surrender, and hundreds more were executed for war crimes.  Emperor Hirohito (Shōwa) was not indicted, but he became a mere symbol of the state under the new order.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">SCAP, MacArthur and the New Constitution</h5>
+                <p class="card-text">In August 1945, Allied forces—mainly the United States—moved in.  General <strong>Douglas MacArthur</strong> arrived as the Supreme Commander for the Allied Powers (SCAP) and effectively ruled Japan.  He oversaw a sweeping occupation from 1945 to 1952.  The initial goals were ambitious: <strong>demilitarize and democratize</strong> the nation.  The occupation authorities dissolved the Imperial Army and Navy, introduced civil‑rights protections, passed a new Trade Union Law that guaranteed workers’ right to organize, and launched radical <strong>land reforms</strong> that broke the hold of landlord elites.  They purged more than 200,000 wartime leaders and ultranationalists from office.  These reforms gave women unprecedented rights, remade Japan’s criminal and civil codes, and decentralized governance.
 The crown jewel of this project was the <strong>1947 Constitution</strong>, drafted largely by SCAP officials after Japanese proposals were deemed too conservative.  Coming into force in 1947, it <strong>renounced war</strong> (Article 9), guaranteed universal suffrage, enshrined equality regardless of “race, creed, sex, social status, or family origin,” and declared the Emperor a symbol rather than a ruler.  The constitution forever prohibited Japan from maintaining a traditional army, promising the world that the nation would never wage war again.  <strong>Shinto</strong> was separated from the state, human rights were guaranteed, and women could finally vote.  These revolutionary changes turned Japan into a modern democracy almost overnight.</p>
-<h3 id='reverse-course-and-realpolitik'>Reverse Course and Realpolitik</h3>
-<p>If this all sounds too idealistic to last, well… you’re right.  By 1947 the Cold War was raging, and Washington decided that an economically weak Japan was a security risk.  The U.S. scaled back its grand social engineering in a move dubbed the <strong>“reverse course.”</strong>  Rather than dismantle conglomerates (zaibatsu) and empower labor, SCAP reversed labour reforms, delayed breaking up industries and allowed only 11 of the 325 targeted companies to split.  Anti‑communist purges replaced earlier efforts to purge militarists.  The nascent left‑wing labour movement saw its momentum evaporate when MacArthur threatened to suppress a planned general strike in February 1947.  On the surface, democracy remained; under the hood, <strong>Washington’s strategic interests took priority</strong>.</p>
-<h3 id='an-occupations-end-and-a-new-alliance'>An Occupation’s End and a New Alliance</h3>
-<p>The Allied occupation formally ended in <strong>April 1952</strong>, when the San Francisco Peace Treaty went into effect.  However, the partnership with the United States continued in the form of the <strong>U.S.–Japan Security Treaty</strong> (Anpo), which allowed U.S. troops to remain on Japanese soil.  Re‑militarization crept back when the <strong>Japan Self‑Defense Force</strong> (JSDF) was established in 1954.  While technically a “self‑defense” force, the JSDF prompted large protests, reflecting the tension between pacifist ideals and Cold War realities.</p>
-<h2 id='economic-phoenix-the-postwar-boom'>Economic Phoenix: The Post‑War Boom</h2>
-<p>The late 1940s and early 1950s were lean years.  Food was scarce and inflation rampant.  Everything changed after the <strong>Korean War</strong> broke out in 1950.  U.S. military orders poured into Japan, providing a massive stimulus that jump‑started industry and laid the foundation for what became known as the <strong>Japanese economic miracle</strong>.  From the mid‑1950s through the early 1970s, Japan enjoyed annual growth rates surpassing most of the Western world.  Factories churned out <strong>cars, electronics, and steel</strong>; farmers enjoyed higher productivity thanks to mechanization; and consumers discovered the joys of electric rice cookers and colour televisions.  The living standards of ordinary Japanese rose rapidly.  Political stability under the <strong>Liberal Democratic Party (LDP)</strong>, which came to dominate post‑war politics, helped maintain a favourable business climate.</p>
-<h3 id='pollution-and-pains-of-growth'>Pollution and Pains of Growth</h3>
-<p>Rapid growth, however, came at a price.  With factories belching smoke and rivers turning unnatural colours, Japan earned the dubious moniker of a <strong>“polluted paradise.”</strong>  Among the most tragic environmental disasters was <strong>Minamata disease</strong>, caused by methylmercury contamination from industrial wastewater.  As of 2001, <strong>2,265 people were officially verified</strong> as victims of Minamata disease; <strong>1,784 of them had died</strong>.  The Chisso Corporation’s dumping of mercury into Minamata Bay from the 1930s to the late 1960s left profound neurological damage in its wake.  The victims’ struggle for recognition and compensation became a catalyst for Japan’s environmental movement.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Reverse Course and Realpolitik</h5>
+                <p class="card-text">If this all sounds too idealistic to last, well… you’re right.  By 1947 the Cold War was raging, and Washington decided that an economically weak Japan was a security risk.  The U.S. scaled back its grand social engineering in a move dubbed the <strong>“reverse course.”</strong>  Rather than dismantle conglomerates (zaibatsu) and empower labor, SCAP reversed labour reforms, delayed breaking up industries and allowed only 11 of the 325 targeted companies to split.  Anti‑communist purges replaced earlier efforts to purge militarists.  The nascent left‑wing labour movement saw its momentum evaporate when MacArthur threatened to suppress a planned general strike in February 1947.  On the surface, democracy remained; under the hood, <strong>Washington’s strategic interests took priority</strong>.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">An Occupation’s End and a New Alliance</h5>
+                <p class="card-text">The Allied occupation formally ended in <strong>April 1952</strong>, when the San Francisco Peace Treaty went into effect.  However, the partnership with the United States continued in the form of the <strong>U.S.–Japan Security Treaty</strong> (Anpo), which allowed U.S. troops to remain on Japanese soil.  Re‑militarization crept back when the <strong>Japan Self‑Defense Force</strong> (JSDF) was established in 1954.  While technically a “self‑defense” force, the JSDF prompted large protests, reflecting the tension between pacifist ideals and Cold War realities.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Economic Phoenix: The Post‑War Boom</h5>
+                <p class="card-text">The late 1940s and early 1950s were lean years.  Food was scarce and inflation rampant.  Everything changed after the <strong>Korean War</strong> broke out in 1950.  U.S. military orders poured into Japan, providing a massive stimulus that jump‑started industry and laid the foundation for what became known as the <strong>Japanese economic miracle</strong>.  From the mid‑1950s through the early 1970s, Japan enjoyed annual growth rates surpassing most of the Western world.  Factories churned out <strong>cars, electronics, and steel</strong>; farmers enjoyed higher productivity thanks to mechanization; and consumers discovered the joys of electric rice cookers and colour televisions.  The living standards of ordinary Japanese rose rapidly.  Political stability under the <strong>Liberal Democratic Party (LDP)</strong>, which came to dominate post‑war politics, helped maintain a favourable business climate.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Pollution and Pains of Growth</h5>
+                <p class="card-text">Rapid growth, however, came at a price.  With factories belching smoke and rivers turning unnatural colours, Japan earned the dubious moniker of a <strong>“polluted paradise.”</strong>  Among the most tragic environmental disasters was <strong>Minamata disease</strong>, caused by methylmercury contamination from industrial wastewater.  As of 2001, <strong>2,265 people were officially verified</strong> as victims of Minamata disease; <strong>1,784 of them had died</strong>.  The Chisso Corporation’s dumping of mercury into Minamata Bay from the 1930s to the late 1960s left profound neurological damage in its wake.  The victims’ struggle for recognition and compensation became a catalyst for Japan’s environmental movement.
 Another man‑made tragedy struck decades later in the skies.  On <strong>August 12 1985</strong>, Japan Airlines Flight 123, a Boeing 747 bound for Osaka, suffered a catastrophic structural failure and crashed into Mt. Osutaka.  <strong>520 of the 524 passengers and crew</strong> perished, making it the worst single‑aircraft disaster in history.  Investigators found that a faulty repair of the rear pressure bulkhead in 1978 led to the failure.  This accident shocked the nation and prompted reforms in aircraft maintenance and oversight.</p>
-<h3 id='the-oil-shock-and-a-hightech-pivot'>The Oil Shock and a High‑Tech Pivot</h3>
-<p>The <strong>1973 oil crisis</strong> abruptly ended the era of double‑digit growth.  Japan, heavily dependent on imported oil, faced skyrocketing energy costs and inflation.  The economy slowed, but the shock prompted a strategic pivot.  Companies poured resources into <strong>energy‑efficient, high‑technology industries</strong>—semiconductors, robotics, and precision manufacturing.  By the 1980s, these sectors became the engines of Japan’s resurgence.  Toyota’s production system, Sony’s Walkman, and the launch of the <strong>Shinkansen bullet trains</strong> symbolized Japan’s cutting‑edge status.  While growth rates settled to more modest levels, Japan remained an economic powerhouse.</p>
-<h2 id='social-tremors-protest-and-politics'>Social Tremors: Protest and Politics</h2>
-<h3 id='anpo-when-millions-took-to-the-streets'>Anpo: When Millions Took to the Streets</h3>
-<p>Not everyone was content to watch economic statistics climb.  In <strong>May and June 1960</strong>, Japan witnessed the <strong>largest protests in its modern history</strong> over the renewal of the U.S.–Japan Security Treaty.  Known as the <strong>Anpo protests</strong>, they drew <strong>hundreds of thousands of people into the streets daily</strong>, mobilized <strong>ten million petition signatures</strong>, and resulted in <strong>thousands of injuries and one fatality</strong>.  Demonstrators feared that the revised treaty would drag Japan into Cold War conflicts and perpetuate military dependence on the United States.  The protests forced the cancellation of President Dwight Eisenhower’s planned visit and toppled Prime Minister <strong>Kishi Nobusuke</strong>.  Although the treaty ultimately passed, the Anpo protests remain a defining episode of post‑war political activism.</p>
-<h3 id='student-movements-and-cultural-shifts'>Student Movements and Cultural Shifts</h3>
-<p>The 1960s and 1970s also saw a vibrant <strong>student movement</strong>, as university students protested tuition increases, university governance, and Japan’s alignment with the U.S.  Radical factions occasionally occupied campus buildings and clashed with riot police, culminating in high‑profile incidents like the <strong>Asama‑Sansō hostage crisis</strong> of 1972 (involving a breakaway faction of the United Red Army).  While outside the scope of our footnotes, these events illustrated the friction between rapid modernization and a generation seeking to redefine Japan’s identity.</p>
-<h3 id='gaiety-and-global-showcases'>Gaiety and Global Showcases</h3>
-<p>It wasn’t all grim.  To celebrate its recovery, Japan hosted the <strong>1964 Tokyo Olympics</strong>, debuting the world’s first bullet train and impressing audiences with a dazzling opening ceremony.  The 1970 <strong>Osaka Expo</strong> showcased futuristic designs and global partnerships.  Pop culture boomed: Godzilla stomped into cinemas, anime began capturing hearts, and manga artists like Osamu Tezuka and later Akira Toriyama (Dragon Ball) shaped global imaginations.  Japanese cuisine—sushi, ramen, and tempura—won fans abroad.  In short, Japan reinvented itself not just as an economic giant but as a cultural trendsetter.</p>
-<h2 id='through-tragedy-and-triumph-toward-the-heisei-era'>Through Tragedy and Triumph: Toward the Heisei Era</h2>
-<p>By the 1980s, Japan’s economy seemed unstoppable.  Real estate prices in Tokyo skyrocketed, and there was talk of <strong>Japan Inc.</strong> buying up iconic landmarks abroad.  Beneath the euphoria, however, structural weaknesses lurked.  Financial speculation inflated a bubble that would burst spectacularly in the early 1990s.  But that is a story for the next era.
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">The Oil Shock and a High‑Tech Pivot</h5>
+                <p class="card-text">The <strong>1973 oil crisis</strong> abruptly ended the era of double‑digit growth.  Japan, heavily dependent on imported oil, faced skyrocketing energy costs and inflation.  The economy slowed, but the shock prompted a strategic pivot.  Companies poured resources into <strong>energy‑efficient, high‑technology industries</strong>—semiconductors, robotics, and precision manufacturing.  By the 1980s, these sectors became the engines of Japan’s resurgence.  Toyota’s production system, Sony’s Walkman, and the launch of the <strong>Shinkansen bullet trains</strong> symbolized Japan’s cutting‑edge status.  While growth rates settled to more modest levels, Japan remained an economic powerhouse.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Social Tremors: Protest and Politics</h5>
+                <h5 class="card-title">Anpo: When Millions Took to the Streets</h5>
+                <p class="card-text">Not everyone was content to watch economic statistics climb.  In <strong>May and June 1960</strong>, Japan witnessed the <strong>largest protests in its modern history</strong> over the renewal of the U.S.–Japan Security Treaty.  Known as the <strong>Anpo protests</strong>, they drew <strong>hundreds of thousands of people into the streets daily</strong>, mobilized <strong>ten million petition signatures</strong>, and resulted in <strong>thousands of injuries and one fatality</strong>.  Demonstrators feared that the revised treaty would drag Japan into Cold War conflicts and perpetuate military dependence on the United States.  The protests forced the cancellation of President Dwight Eisenhower’s planned visit and toppled Prime Minister <strong>Kishi Nobusuke</strong>.  Although the treaty ultimately passed, the Anpo protests remain a defining episode of post‑war political activism.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Student Movements and Cultural Shifts</h5>
+                <p class="card-text">The 1960s and 1970s also saw a vibrant <strong>student movement</strong>, as university students protested tuition increases, university governance, and Japan’s alignment with the U.S.  Radical factions occasionally occupied campus buildings and clashed with riot police, culminating in high‑profile incidents like the <strong>Asama‑Sansō hostage crisis</strong> of 1972 (involving a breakaway faction of the United Red Army).  While outside the scope of our footnotes, these events illustrated the friction between rapid modernization and a generation seeking to redefine Japan’s identity.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Gaiety and Global Showcases</h5>
+                <p class="card-text">It wasn’t all grim.  To celebrate its recovery, Japan hosted the <strong>1964 Tokyo Olympics</strong>, debuting the world’s first bullet train and impressing audiences with a dazzling opening ceremony.  The 1970 <strong>Osaka Expo</strong> showcased futuristic designs and global partnerships.  Pop culture boomed: Godzilla stomped into cinemas, anime began capturing hearts, and manga artists like Osamu Tezuka and later Akira Toriyama (Dragon Ball) shaped global imaginations.  Japanese cuisine—sushi, ramen, and tempura—won fans abroad.  In short, Japan reinvented itself not just as an economic giant but as a cultural trendsetter.</p>
+            </div>
+        </div>
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">Through Tragedy and Triumph: Toward the Heisei Era</h5>
+                <p class="card-text">By the 1980s, Japan’s economy seemed unstoppable.  Real estate prices in Tokyo skyrocketed, and there was talk of <strong>Japan Inc.</strong> buying up iconic landmarks abroad.  Beneath the euphoria, however, structural weaknesses lurked.  Financial speculation inflated a bubble that would burst spectacularly in the early 1990s.  But that is a story for the next era.
 The <strong>post‑war Shōwa period</strong> was a study in contrasts: a nation that swore off war yet remained under a security umbrella; a society that embraced democracy yet faced periodic authoritarian impulses; an economy that went from ashes to the world’s second largest in a generation; and a people who endured tragedies like Minamata disease and Flight 123 while still conjuring Godzilla and Hello Kitty.  Japan’s ability to adapt—politically, economically, and culturally—made this era one of the most remarkable national transformations in modern history.
 As we move forward to the <strong>Heisei era</strong>, we will see how economic bubbles burst, how new challenges like natural disasters and technological disruptions arise, and how Japan continues to reinvent itself.  Stay tuned for the next chapter in this saga.</p>
-<p><a href='./showa_blog_post.md'>Prev - Showa Period</a></p>
-<p><a href='./heisei_blog_post.md'>Next - Heisei Period</a></p>
-<p><a href='../toc.md'>Home</a></p>
-<hr />
-<h2 id='footnotes'>Footnotes</h2>
-<ol start='' >
-<li><strong>Post‑war devastation and occupation:</strong> The Allied occupation began in August 1945 and lasted until April 1952.  Japan’s cities and industries were devastated, territories acquired since 1894 were lost, and food shortages lingered.  Over 500 military officers committed suicide after surrender, and many more were executed; Emperor Hirohito retained his position only as a symbolic monarch.</li>
-<li><strong>The new constitution and reforms:</strong> Under General MacArthur’s SCAP, Japan adopted a new constitution in 1947 that renounced war and demilitarization, introduced universal suffrage, guaranteed human rights, separated Shinto from state, and made the emperor a symbol.  The occupation also dissolved the military, protected labour rights, and enacted land reforms.</li>
-<li><strong>Reverse course:</strong> Cold War fears pushed the U.S. to roll back radical reforms.  Plans to dismantle conglomerates were largely abandoned, with only 11 of 325 companies broken up.  Labour movements were curtailed when MacArthur threatened to use troops against a planned general strike in 1947.</li>
-<li><strong>Economic growth and oil shock:</strong> After the Korean War, Japan’s economy flourished, raising living standards and solidifying the LDP’s rule.  Pollution and environmental disasters like Minamata disease accompanied growth.  The 1973 oil crisis prompted a shift toward high‑technology industries.</li>
-<li><strong>Minamata disease casualties:</strong> By March 2001, 2,265 people were officially verified as victims of Minamata disease and 1,784 had died.</li>
-<li><strong>JAL Flight 123 disaster:</strong> On August 12 1985, a catastrophic repair failure caused Japan Airlines Flight 123 to crash into Mt. Osutaka, killing 520 of the 524 passengers and crew.</li>
-<li><strong>Anpo protests:</strong> The 1960 Anpo protests against the U.S.–Japan Security Treaty mobilized hundreds of thousands of protesters, drew ten million petition signatures, resulted in thousands of injuries and one death, and forced the resignation of Prime Minister Kishi.</li>
+            </div>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <a class="btn btn-secondary" type="button" href="./showa_blog_post.html">Prev.</a>
+            <a class="btn btn-secondary" type="button" href='../index.html'>Home</a>
+            <a class="btn btn-secondary" type="button" href='./heisei_blog_post.html'>Next</a>
+        </div>
+        <hr />
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">References</h5>
+                <ol>
+                    <li><strong>Post‑war devastation and occupation:</strong> The Allied occupation began in August 1945 and lasted until April 1952.  Japan’s cities and industries were devastated, territories acquired since 1894 were lost, and food shortages lingered.  Over 500 military officers committed suicide after surrender, and many more were executed; Emperor Hirohito retained his position only as a symbolic monarch.</li>
+                    <li><strong>The new constitution and reforms:</strong> Under General MacArthur’s SCAP, Japan adopted a new constitution in 1947 that renounced war and demilitarization, introduced universal suffrage, guaranteed human rights, separated Shinto from state, and made the emperor a symbol.  The occupation also dissolved the military, protected labour rights, and enacted land reforms.</li>
+                    <li><strong>Reverse course:</strong> Cold War fears pushed the U.S. to roll back radical reforms.  Plans to dismantle conglomerates were largely abandoned, with only 11 of 325 companies broken up.  Labour movements were curtailed when MacArthur threatened to use troops against a planned general strike in 1947.</li>
+                    <li><strong>Economic growth and oil shock:</strong> After the Korean War, Japan’s economy flourished, raising living standards and solidifying the LDP’s rule.  Pollution and environmental disasters like Minamata disease accompanied growth.  The 1973 oil crisis prompted a shift toward high‑technology industries.</li>
+                    <li><strong>Minamata disease casualties:</strong> By March 2001, 2,265 people were officially verified as victims of Minamata disease and 1,784 had died.</li>
+                    <li><strong>JAL Flight 123 disaster:</strong> On August 12 1985, a catastrophic repair failure caused Japan Airlines Flight 123 to crash into Mt. Osutaka, killing 520 of the 524 passengers and crew.</li>
+                    <li><strong>Anpo protests:</strong> The 1960 Anpo protests against the U.S.–Japan Security Treaty mobilized hundreds of thousands of protesters, drew ten million petition signatures, resulted in thousands of injuries and one death, and forced the resignation of Prime Minister Kishi.</li>
+                    <li>Japan Guide. <em>Post War History (since 1945)</em>. (Accessed 2025).</li>
+                    <li>MIT Visualizing Cultures. <em>Anpo: Photographer Hamaya Hiroshi and 1960 Protests</em> (essay). (Accessed 2025).</li>
+                    <li>Shippai.org (Failure Knowledge Database). <em>Case Details: Crash of Japan Airlines B‑747 at Mt. Osutaka</em>. (Accessed 2025).</li>
+                    <li>History vs. Hollywood. <em>Minamata vs. the True Story of W. Eugene Smith and the Disaster</em>. (Accessed 2025).</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <footer class="footer mt-auto py-4">
+        <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
+        <small>© <span id="y"></span> Japan's History. - Brandon Schwebs.  All rights reserved.</small>
+        <small><a href="../contact.html" class="link-light">Contact</a></small>
+        </div>
+    </footer>
 
-</ol>
-<h2 id='references'>References</h2>
-<ol start='' >
-<li>Japan Guide. <em>Post War History (since 1945)</em>. (Accessed 2025).</li>
-<li>MIT Visualizing Cultures. <em>Anpo: Photographer Hamaya Hiroshi and 1960 Protests</em> (essay). (Accessed 2025).</li>
-<li>Shippai.org (Failure Knowledge Database). <em>Case Details: Crash of Japan Airlines B‑747 at Mt. Osutaka</em>. (Accessed 2025).</li>
-<li>History vs. Hollywood. <em>Minamata vs. the True Story of W. Eugene Smith and the Disaster</em>. (Accessed 2025).</li>
-
-</ol>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script>
+        // current year in footer
+        document.getElementById('y').textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>
